@@ -1,0 +1,1021 @@
+student_id,gender,age,attendance_percentage,study_hours_per_week,previous_cgpa,internal_marks,participation_score,sleep_hours,extracurricular,internet_access,parent_education,family_income,test_preparation,final_exam_score,performance_level
+524,Female,25,88.8,12.9,4.22,31.0,9.0,6.2,No,No,High School,Medium,Completed,57.9,Average
+603,Male,25,79.2,19.9,5.43,30.0,8.0,6.0,Yes,Yes,Master,High,Completed,69.9,Average
+527,Male,17,79.0,15.5,6.03,29.0,1.0,8.2,Yes,Yes,Bachelor,Medium,Not Completed,62.2,Average
+32,Male,18,87.8,17.3,6.22,31.0,7.0,6.6,Yes,Yes,High School,Medium,Not Completed,66.8,Average
+617,Male,25,95.3,6.3,3.77,,2.0,6.7,Yes,No,Master,High,Completed,51.0,Average
+586,Male,23,55.0,9.4,5.14,32.0,8.0,4.4,No,Yes,Master,High,Completed,59.4,Average
+445,Female,18,70.5,9.5,5.59,31.0,9.0,9.1,Yes,Yes,High School,High,Not Completed,57.3,Average
+733,Female,25,61.3,11.4,6.37,17.0,2.0,6.8,Yes,No,Bachelor,Low,Completed,46.2,Low
+77,Female,25,73.7,8.9,5.71,17.0,1.0,8.6,Yes,Yes,High School,Medium,Not Completed,49.2,Low
+412,Female,25,79.2,16.3,6.07,,5.0,6.6,Yes,Yes,Bachelor,High,Not Completed,65.8,Average
+569,Female,21,69.0,17.9,6.87,26.0,2.0,4.5,No,Yes,Bachelor,Medium,Not Completed,56.7,Average
+71,Female,19,70.8,14.3,6.61,,5.0,7.0,Yes,Yes,High School,Low,Completed,69.0,Average
+676,Female,19,77.1,5.5,4.85,27.0,7.0,7.4,No,Yes,High School,Medium,Not Completed,58.6,Average
+102,Female,25,89.3,6.2,3.98,25.0,3.0,7.7,No,Yes,High School,High,Completed,63.8,Average
+895,Female,24,83.7,9.4,5.86,18.0,4.0,8.2,Yes,Yes,Master,High,Completed,51.2,Average
+926,Male,19,71.2,33.7,7.24,36.0,4.0,6.0,No,Yes,Master,Medium,Completed,70.9,Average
+630,Male,21,89.4,6.3,4.61,28.0,6.0,5.7,Yes,Yes,Master,Low,Not Completed,64.7,Average
+300,Male,18,65.7,9.7,4.31,16.0,4.0,7.1,Yes,No,Bachelor,High,Completed,54.5,Average
+925,Male,18,47.1,17.3,7.08,24.0,6.0,7.4,Yes,Yes,Bachelor,Low,Completed,67.4,Average
+425,Male,25,81.8,12.2,5.42,28.0,8.0,6.4,No,Yes,PhD,Low,Completed,65.9,Average
+97,Female,20,70.8,20.9,,34.0,5.0,8.3,Yes,No,Master,Low,Completed,77.3,High
+901,Male,19,,8.9,5.66,27.0,,6.2,No,Yes,Master,Low,Not Completed,57.8,Average
+261,Female,19,94.1,16.5,6.27,27.0,5.0,9.8,No,No,High School,Medium,Completed,67.5,Average
+351,Male,22,80.1,22.5,7.55,31.0,9.0,5.6,Yes,Yes,Master,Medium,Completed,68.4,Average
+529,Male,22,62.1,10.7,5.19,25.0,1.0,6.8,Yes,No,High School,Low,Completed,56.3,Average
+695,Male,23,63.3,5.9,5.24,26.0,10.0,10.0,Yes,Yes,Bachelor,Medium,Completed,53.5,Average
+362,Female,17,70.8,13.6,,27.0,2.0,5.9,Yes,Yes,PhD,Low,Not Completed,58.4,Average
+612,Female,18,,10.8,5.39,,6.0,8.9,No,Yes,Master,High,Completed,70.3,Average
+885,Female,17,73.9,11.8,5.38,28.0,,7.0,Yes,Yes,Bachelor,Medium,Completed,68.1,Average
+721,Female,22,78.1,14.3,6.03,35.0,8.0,5.9,Yes,Yes,Master,Medium,Not Completed,62.5,Average
+487,Male,17,78.6,8.8,5.08,22.0,7.0,6.0,No,Yes,High School,High,Completed,70.9,Average
+694,Male,25,80.2,14.5,5.56,34.0,7.0,7.0,No,Yes,Bachelor,High,Completed,70.6,Average
+679,Female,22,73.0,21.6,6.66,36.0,7.0,7.0,No,No,Master,High,Not Completed,65.0,Average
+810,Male,17,74.1,23.2,8.01,29.0,5.0,6.7,Yes,No,Master,Low,Completed,72.3,Average
+409,Female,23,71.4,4.8,6.17,22.0,7.0,6.7,No,Yes,High School,Medium,Not Completed,43.0,Low
+741,Male,22,69.7,17.0,6.3,9.0,3.0,7.2,No,Yes,Bachelor,High,Not Completed,58.3,Average
+214,Male,23,93.0,14.2,,21.0,,5.7,No,Yes,Bachelor,Medium,Not Completed,70.7,Average
+590,Male,20,66.3,13.3,4.92,26.0,3.0,7.2,No,Yes,Master,Medium,Not Completed,62.4,Average
+366,Male,24,56.7,11.4,6.37,20.0,4.0,6.9,Yes,Yes,Bachelor,Low,Completed,56.2,Average
+200,Female,18,61.5,9.9,7.31,24.0,6.0,7.3,No,Yes,Bachelor,Low,Not Completed,61.3,Average
+637,Female,25,85.1,17.7,,29.0,9.0,6.1,Yes,No,High School,High,Not Completed,62.7,Average
+629,Male,23,84.8,7.0,4.85,35.0,9.0,8.1,No,Yes,Bachelor,Low,Not Completed,63.6,Average
+829,Female,23,68.3,12.6,5.52,,7.0,5.2,No,No,Master,Medium,Completed,55.3,Average
+353,Female,19,53.7,7.6,4.81,21.0,3.0,4.8,No,Yes,Bachelor,Medium,Not Completed,53.3,Average
+330,Male,23,81.8,18.4,5.98,39.0,,7.7,No,No,High School,Medium,Not Completed,59.2,Average
+982,Female,24,74.3,15.4,6.61,31.0,6.0,6.4,Yes,Yes,PhD,Low,Not Completed,56.9,Average
+838,Male,21,63.2,7.1,4.17,21.0,2.0,7.9,Yes,Yes,High School,Low,Not Completed,49.9,Low
+245,Male,19,71.4,8.2,3.82,19.0,10.0,5.9,No,No,Master,Low,Completed,61.8,Average
+287,Male,25,80.5,15.5,4.49,24.0,,5.6,No,Yes,High School,Medium,Not Completed,58.5,Average
+290,Female,19,54.8,8.1,5.1,18.0,7.0,7.8,No,Yes,Bachelor,Medium,Not Completed,54.4,Average
+599,Male,22,84.4,16.9,8.11,30.0,6.0,7.9,Yes,Yes,Bachelor,Low,Not Completed,78.3,High
+762,Male,18,57.9,16.7,6.74,18.0,5.0,6.7,No,No,Bachelor,Medium,Completed,69.6,Average
+60,Male,17,79.5,13.0,6.3,27.0,4.0,6.8,Yes,Yes,Bachelor,High,Completed,63.7,Average
+623,Male,18,90.5,11.9,6.86,20.0,7.0,7.7,No,Yes,Bachelor,High,Completed,65.3,Average
+319,Male,22,56.1,15.1,5.33,24.0,0.0,,No,Yes,High School,Medium,Not Completed,55.5,Average
+11,Male,25,48.4,23.1,6.96,30.0,7.0,6.1,No,Yes,Bachelor,Low,Completed,64.1,Average
+238,Male,19,72.0,9.2,4.37,25.0,5.0,5.8,Yes,Yes,High School,Low,Completed,54.4,Average
+332,Female,20,70.8,15.1,5.96,35.0,6.0,6.8,No,No,Bachelor,Low,Not Completed,65.2,Average
+706,Female,21,60.3,22.2,6.49,33.0,5.0,5.8,No,Yes,Master,Medium,Completed,72.3,Average
+87,Female,22,95.9,8.1,4.87,25.0,7.0,6.0,No,No,High School,High,Not Completed,57.5,Average
+804,Female,25,86.3,6.9,4.08,26.0,4.0,6.6,Yes,Yes,Bachelor,Low,Completed,64.5,Average
+175,Female,23,80.3,13.0,5.15,29.0,7.0,6.9,Yes,No,High School,Medium,Completed,61.4,Average
+313,Male,18,85.3,9.4,5.85,16.0,,6.7,Yes,No,Bachelor,Low,Completed,56.8,Average
+463,Female,18,100.0,17.5,6.06,23.0,5.0,6.4,No,Yes,Bachelor,High,Not Completed,54.8,Average
+219,Female,18,92.0,15.1,7.15,,5.0,4.0,Yes,No,High School,Medium,Not Completed,64.3,Average
+31,Female,19,94.8,21.1,6.84,33.0,3.0,7.1,No,No,Bachelor,Medium,Not Completed,75.9,High
+548,Female,21,85.7,11.4,5.3,26.0,5.0,7.5,Yes,Yes,High School,Medium,Completed,68.4,Average
+665,Male,25,66.5,7.3,5.38,28.0,7.0,10.0,No,Yes,High School,Low,Completed,57.4,Average
+55,Female,23,57.1,9.7,4.99,20.0,7.0,,No,No,Master,High,Completed,62.8,Average
+24,Male,19,95.4,6.8,4.57,24.0,8.0,4.9,Yes,Yes,Bachelor,High,Not Completed,48.4,Low
+257,Female,23,66.9,23.2,7.28,38.0,8.0,5.3,Yes,Yes,Bachelor,High,Not Completed,64.3,Average
+451,Female,19,68.4,18.0,6.85,27.0,4.0,7.2,Yes,Yes,Master,High,Not Completed,62.8,Average
+4,Female,21,96.8,12.7,5.67,25.0,4.0,8.5,Yes,Yes,High School,Medium,Not Completed,64.9,Average
+834,Male,18,68.1,18.6,6.01,32.0,6.0,6.9,Yes,No,Bachelor,Low,Completed,60.7,Average
+553,Female,25,94.8,17.1,7.51,27.0,5.0,10.0,No,Yes,Master,Low,Not Completed,64.8,Average
+639,Male,18,62.8,8.3,,18.0,7.0,7.4,Yes,Yes,High School,High,Completed,64.9,Average
+478,Female,18,71.6,11.6,6.51,24.0,7.0,9.0,No,Yes,Bachelor,Low,Not Completed,62.8,Average
+957,Male,24,99.2,22.7,5.27,33.0,4.0,5.0,No,Yes,Master,High,Not Completed,77.5,High
+663,Female,17,84.5,16.7,5.63,25.0,7.0,7.1,No,Yes,Master,Medium,Not Completed,65.5,Average
+519,Female,22,84.8,13.3,5.22,29.0,5.0,6.0,No,Yes,PhD,Low,Completed,62.2,Average
+961,Male,23,61.2,17.4,6.58,26.0,6.0,8.7,Yes,Yes,Bachelor,Medium,Not Completed,64.0,Average
+954,Female,21,71.2,9.6,5.29,13.0,6.0,6.8,No,No,PhD,Medium,Completed,54.9,Average
+980,Female,19,74.2,15.1,6.7,32.0,6.0,5.6,Yes,Yes,Bachelor,Low,Not Completed,61.9,Average
+576,Female,19,77.6,11.8,6.73,26.0,3.0,9.5,No,No,High School,Medium,Completed,57.1,Average
+540,Male,17,76.3,2.9,5.78,26.0,8.0,4.0,Yes,Yes,Master,Medium,Not Completed,64.1,Average
+216,Male,22,72.5,13.1,,34.0,7.0,8.3,No,Yes,High School,Medium,Completed,63.6,Average
+738,Female,20,89.7,10.5,5.13,31.0,3.0,4.7,Yes,Yes,Bachelor,High,Completed,56.5,Average
+999,Female,17,81.9,7.9,5.45,29.0,9.0,8.1,No,Yes,Master,Medium,Completed,66.9,Average
+714,Male,22,65.4,,5.75,11.0,4.0,7.1,No,Yes,High School,Low,Not Completed,46.7,Low
+668,Male,17,58.8,16.2,6.1,21.0,2.0,7.7,Yes,Yes,High School,Medium,Completed,70.3,Average
+40,Male,24,71.6,7.3,6.94,24.0,2.0,7.2,Yes,Yes,High School,Medium,Completed,53.0,Average
+232,Male,17,59.7,17.2,6.59,27.0,7.0,7.4,No,No,Bachelor,Low,Completed,64.5,Average
+495,Male,17,74.7,17.1,7.01,31.0,,6.6,No,Yes,High School,Low,Not Completed,65.0,Average
+705,Male,22,,11.9,5.85,30.0,6.0,8.2,Yes,Yes,High School,Medium,Not Completed,54.0,Average
+968,Male,24,66.7,,6.44,32.0,3.0,9.7,Yes,Yes,High School,Medium,Not Completed,51.7,Average
+67,Male,20,,18.3,5.73,28.0,6.0,6.4,No,Yes,Bachelor,Medium,Completed,73.3,Average
+295,Male,22,68.7,9.8,,19.0,4.0,9.1,No,Yes,Bachelor,Medium,Not Completed,50.3,Average
+68,Female,21,76.8,13.0,5.1,,8.0,8.6,No,Yes,Bachelor,High,Not Completed,56.2,Average
+480,Female,17,56.2,20.0,6.83,26.0,,9.3,No,No,Master,Medium,Not Completed,58.2,Average
+329,Male,20,80.9,17.9,5.29,33.0,6.0,6.2,Yes,No,Master,Medium,Not Completed,62.9,Average
+627,Male,18,83.2,12.8,5.52,25.0,3.0,7.5,Yes,Yes,High School,Low,Completed,65.2,Average
+108,Female,21,81.2,9.9,,32.0,8.0,6.1,No,Yes,High School,Medium,Completed,55.3,Average
+984,Male,21,82.5,6.3,5.99,21.0,1.0,7.6,No,Yes,Bachelor,High,Completed,63.4,Average
+347,Female,21,56.5,12.9,5.16,30.0,6.0,7.0,No,No,Master,Low,Not Completed,52.8,Average
+299,Female,24,79.1,4.5,3.57,22.0,5.0,7.3,No,Yes,Master,High,Completed,50.8,Average
+644,Male,19,70.1,11.8,5.13,24.0,6.0,7.8,No,Yes,High School,Low,Not Completed,56.6,Average
+308,Male,22,71.3,10.3,4.84,20.0,5.0,7.5,No,No,Master,High,Not Completed,39.3,Low
+855,Male,20,83.5,10.3,5.83,18.0,6.0,5.9,Yes,Yes,Bachelor,Low,Not Completed,62.4,Average
+507,Female,22,70.2,8.6,4.0,21.0,6.0,6.3,Yes,Yes,High School,High,Completed,57.5,Average
+297,Female,20,79.8,11.0,4.98,33.0,3.0,5.5,No,Yes,Master,Medium,Completed,60.7,Average
+881,Male,18,100.0,16.7,5.51,32.0,3.0,6.7,Yes,Yes,High School,Medium,Not Completed,69.7,Average
+667,Male,20,67.6,4.8,4.1,28.0,10.0,7.3,No,Yes,Bachelor,Low,Completed,57.6,Average
+101,Male,18,56.2,12.1,5.18,16.0,3.0,6.8,No,No,Master,Low,Not Completed,48.1,Low
+89,Female,24,67.7,15.1,6.11,32.0,5.0,7.3,No,Yes,Master,Medium,Completed,70.0,Average
+64,Male,25,80.3,12.7,5.63,26.0,3.0,,Yes,Yes,Master,Medium,Completed,71.4,Average
+844,Female,21,73.9,18.3,5.57,25.0,2.0,7.0,No,Yes,PhD,Medium,Not Completed,67.4,Average
+889,Male,19,66.2,11.1,4.74,22.0,8.0,6.2,No,Yes,Bachelor,Medium,Completed,56.9,Average
+140,Female,25,60.9,9.8,4.36,22.0,5.0,6.5,Yes,No,Bachelor,Medium,Completed,51.1,Average
+758,Female,19,80.8,6.7,5.93,33.0,4.0,5.6,Yes,Yes,Bachelor,Medium,Not Completed,57.7,Average
+616,Female,23,78.2,6.3,4.39,20.0,3.0,7.7,Yes,Yes,High School,Medium,Completed,56.9,Average
+500,Female,17,90.7,11.2,4.97,30.0,3.0,7.0,No,Yes,Bachelor,Medium,Not Completed,69.4,Average
+666,Male,23,73.1,17.2,7.28,19.0,6.0,7.6,Yes,Yes,PhD,Medium,Not Completed,60.3,Average
+585,Female,23,80.1,11.1,6.2,25.0,2.0,8.8,Yes,Yes,Bachelor,High,Completed,66.1,Average
+110,Male,22,86.3,8.9,4.76,30.0,5.0,6.6,No,Yes,High School,High,Not Completed,53.7,Average
+917,Male,24,98.1,16.2,6.37,31.0,6.0,7.4,Yes,Yes,Master,Medium,Completed,72.0,Average
+651,Male,19,52.3,13.2,5.04,26.0,5.0,7.2,Yes,Yes,Bachelor,Low,Not Completed,57.9,Average
+534,Female,23,62.5,11.5,5.61,24.0,0.0,6.1,No,Yes,Bachelor,Low,Not Completed,47.8,Low
+446,Female,25,80.1,15.1,6.39,34.0,6.0,6.7,Yes,No,Bachelor,Medium,Completed,71.6,Average
+606,Male,25,70.2,19.6,7.53,32.0,3.0,4.0,Yes,No,Bachelor,Low,Completed,65.7,Average
+137,Male,18,90.8,,4.42,27.0,6.0,5.5,Yes,Yes,Master,High,Not Completed,56.7,Average
+812,Female,20,64.3,19.9,5.29,27.0,4.0,6.9,No,Yes,PhD,Medium,Not Completed,57.1,Average
+515,Male,20,66.7,19.1,5.87,26.0,8.0,5.8,Yes,Yes,Bachelor,Medium,Not Completed,58.1,Average
+754,Male,23,89.1,14.4,4.46,25.0,4.0,8.4,No,Yes,Bachelor,Medium,Not Completed,65.5,Average
+159,Male,24,70.0,3.6,5.9,24.0,6.0,5.8,Yes,Yes,Bachelor,Medium,Not Completed,48.9,Low
+311,Male,22,77.6,13.0,4.9,28.0,4.0,6.6,No,Yes,PhD,Medium,Completed,68.8,Average
+328,Female,18,67.1,17.7,6.46,33.0,1.0,8.6,No,Yes,High School,Low,Not Completed,54.1,Average
+137,Male,18,90.8,,4.42,27.0,6.0,5.5,Yes,Yes,Master,High,Not Completed,56.7,Average
+936,Male,20,64.4,17.9,,20.0,,8.8,No,Yes,Master,Low,Completed,63.8,Average
+255,Male,18,72.0,9.4,4.76,28.0,4.0,8.4,No,Yes,Bachelor,Low,Completed,57.5,Average
+276,Male,24,94.1,,3.18,21.0,9.0,5.5,Yes,Yes,PhD,Medium,Not Completed,49.6,Low
+902,Male,24,73.0,4.5,2.84,,8.0,6.4,No,Yes,PhD,Low,Completed,53.4,Average
+185,Male,17,64.4,10.0,4.92,31.0,8.0,6.9,Yes,Yes,Master,Medium,Completed,73.6,Average
+583,Male,25,76.8,21.2,5.95,33.0,4.0,,No,No,PhD,Medium,Completed,73.9,Average
+661,Male,25,55.8,5.7,5.53,23.0,5.0,6.5,No,Yes,High School,High,Not Completed,41.9,Low
+897,Male,23,99.2,15.2,6.17,32.0,6.0,6.5,Yes,Yes,PhD,Medium,Completed,73.5,Average
+210,Male,18,75.4,3.9,5.01,16.0,6.0,8.6,No,No,Bachelor,Medium,Completed,57.2,Average
+169,Male,20,72.1,1.9,4.16,28.0,5.0,7.8,No,No,Bachelor,Low,Not Completed,42.5,Low
+867,Male,21,67.8,18.9,7.36,26.0,4.0,8.8,No,Yes,Bachelor,Low,Not Completed,66.0,Average
+281,Female,18,80.1,11.5,5.57,24.0,2.0,6.4,No,Yes,Bachelor,Medium,Completed,59.3,Average
+900,Male,24,66.8,16.5,6.06,29.0,5.0,7.8,Yes,No,PhD,High,Not Completed,64.4,Average
+542,Female,22,84.7,11.9,5.56,31.0,10.0,6.5,No,Yes,Master,High,Completed,68.5,Average
+56,Female,18,87.8,23.8,6.96,33.0,10.0,7.7,No,Yes,Bachelor,Low,Completed,79.2,High
+121,Female,24,,19.7,6.91,30.0,5.0,6.9,No,Yes,High School,Medium,Completed,76.0,High
+555,Female,18,70.0,9.0,5.39,18.0,6.0,8.3,No,Yes,Bachelor,High,Completed,61.6,Average
+26,Female,18,82.0,11.5,4.54,24.0,6.0,6.9,No,No,Master,Medium,Not Completed,57.5,Average
+73,Male,18,80.2,5.9,5.46,25.0,7.0,7.4,No,Yes,Master,Medium,Not Completed,55.1,Average
+539,Male,17,80.4,12.4,6.08,33.0,,7.3,No,Yes,High School,High,Not Completed,64.8,Average
+45,Male,17,72.7,11.5,6.78,29.0,7.0,9.1,No,Yes,Bachelor,Medium,Not Completed,57.2,Average
+498,Male,20,85.8,13.1,,28.0,9.0,6.3,Yes,Yes,Bachelor,Medium,Not Completed,58.8,Average
+199,Female,20,72.4,14.2,6.81,,4.0,4.9,Yes,Yes,Master,Medium,Not Completed,57.3,Average
+378,Male,18,70.0,24.0,5.87,31.0,6.0,6.7,Yes,No,Master,Medium,Not Completed,69.1,Average
+315,Female,23,65.2,10.9,6.44,22.0,5.0,6.6,No,No,Master,Medium,Not Completed,53.4,Average
+719,Male,17,87.0,13.4,4.37,32.0,6.0,7.1,Yes,Yes,Master,High,Not Completed,60.4,Average
+209,Male,18,61.7,27.6,6.94,28.0,5.0,6.1,Yes,Yes,Master,Low,Not Completed,69.1,Average
+722,Male,20,69.1,13.6,5.81,20.0,3.0,6.5,No,Yes,High School,Low,Completed,64.1,Average
+919,Female,17,51.7,0.4,4.48,16.0,6.0,8.5,No,Yes,Bachelor,Low,Not Completed,41.7,Low
+536,Female,19,88.0,19.9,6.18,32.0,6.0,6.2,Yes,Yes,PhD,Medium,Not Completed,62.8,Average
+696,Female,25,90.6,11.5,5.37,22.0,7.0,4.9,Yes,No,Bachelor,Medium,Not Completed,58.4,Average
+605,Male,24,75.9,17.2,6.29,28.0,5.0,6.7,Yes,No,Bachelor,Medium,Completed,74.8,Average
+591,Male,20,76.5,8.6,5.08,,7.0,6.2,Yes,No,High School,Low,Completed,58.6,Average
+291,Male,24,50.5,13.7,5.76,15.0,3.0,8.3,No,Yes,High School,Low,Completed,50.7,Average
+960,Female,23,55.0,20.5,6.22,,3.0,8.8,No,Yes,Bachelor,Low,Not Completed,56.1,Average
+333,Male,22,77.2,11.2,4.72,31.0,7.0,6.1,Yes,Yes,High School,Low,Not Completed,60.1,Average
+211,Female,20,46.2,24.0,7.82,26.0,6.0,9.4,No,No,PhD,Low,Completed,74.6,Average
+343,Male,23,65.4,18.2,5.71,24.0,6.0,9.7,No,Yes,PhD,Low,Not Completed,50.6,Average
+61,Male,21,59.2,,6.61,36.0,9.0,7.7,No,Yes,High School,High,Completed,71.7,Average
+345,Male,24,85.1,14.6,5.52,35.0,3.0,7.9,Yes,Yes,Bachelor,Medium,Completed,62.2,Average
+891,Female,17,75.6,11.3,5.44,29.0,7.0,6.1,No,No,High School,Medium,Not Completed,51.2,Average
+712,Female,21,60.9,6.1,6.44,20.0,4.0,10.0,Yes,Yes,High School,Medium,Completed,50.3,Average
+468,Female,24,73.1,16.6,6.84,28.0,3.0,6.6,No,Yes,High School,Medium,Not Completed,53.3,Average
+424,Male,22,95.2,25.1,6.12,33.0,7.0,6.4,No,Yes,Master,Low,Completed,86.2,High
+260,Male,24,56.5,8.1,4.81,10.0,1.0,7.9,No,Yes,Master,Medium,Completed,44.8,Low
+781,Female,24,87.6,16.2,6.51,25.0,6.0,7.4,No,Yes,Bachelor,Low,Completed,73.2,Average
+406,Female,25,46.7,16.5,6.05,22.0,2.0,7.2,Yes,No,High School,Low,Not Completed,51.6,Average
+789,Male,22,74.6,9.1,6.13,23.0,3.0,9.5,No,Yes,High School,High,Not Completed,58.7,Average
+768,Female,22,71.3,11.1,4.91,22.0,4.0,6.6,Yes,Yes,Master,Medium,Not Completed,59.9,Average
+484,Female,21,74.6,11.2,4.24,23.0,2.0,7.3,Yes,Yes,Bachelor,Medium,Completed,55.8,Average
+531,Female,25,100.0,,6.55,37.0,9.0,7.6,Yes,No,High School,High,Completed,78.7,High
+811,Female,20,,7.9,5.53,27.0,2.0,8.5,No,Yes,Bachelor,Medium,Not Completed,55.8,Average
+1000,Male,20,66.5,,4.51,24.0,2.0,7.8,No,Yes,Master,Medium,Not Completed,59.8,Average
+967,Female,24,74.7,21.7,7.37,23.0,0.0,,Yes,Yes,High School,Medium,Not Completed,68.5,Average
+111,Male,23,61.8,6.9,4.7,17.0,0.0,7.9,Yes,No,High School,Medium,Not Completed,51.4,Average
+996,Male,17,83.6,26.6,8.2,26.0,5.0,8.1,No,Yes,PhD,High,Not Completed,75.1,High
+559,Female,22,82.2,,3.75,26.0,2.0,8.3,Yes,No,High School,Medium,Completed,51.4,Average
+794,Female,21,63.3,2.9,,21.0,7.0,5.8,Yes,Yes,Bachelor,Low,Not Completed,46.6,Low
+937,Male,24,69.1,10.6,6.24,26.0,8.0,6.6,Yes,Yes,Master,Medium,Completed,65.9,Average
+920,Male,24,66.3,19.1,6.63,30.0,7.0,7.0,Yes,Yes,Master,Low,Not Completed,67.4,Average
+943,Female,24,79.1,12.5,5.95,20.0,5.0,6.5,No,Yes,High School,High,Not Completed,55.6,Average
+320,Male,25,65.4,21.9,6.87,24.0,5.0,7.1,No,No,PhD,Medium,Not Completed,66.6,Average
+517,Male,22,94.9,10.2,6.22,16.0,4.0,7.5,No,No,Bachelor,High,Not Completed,65.8,Average
+450,Male,23,45.1,19.4,5.9,28.0,4.0,5.1,No,Yes,Bachelor,Medium,Not Completed,51.0,Average
+784,Male,20,70.2,26.1,5.82,,9.0,6.0,No,Yes,High School,Low,Not Completed,68.6,Average
+594,Male,23,64.9,11.1,4.24,28.0,2.0,7.8,Yes,Yes,High School,High,Not Completed,52.5,Average
+910,Male,19,94.7,17.3,7.46,34.0,10.0,6.4,No,Yes,High School,Medium,Completed,68.0,Average
+744,Male,22,53.5,10.5,5.86,21.0,5.0,7.2,No,Yes,High School,Medium,Not Completed,45.8,Low
+138,Female,25,80.4,10.2,5.32,23.0,4.0,8.4,Yes,Yes,PhD,Medium,Completed,66.4,Average
+800,Female,24,73.9,21.2,6.82,31.0,7.0,9.3,No,Yes,Bachelor,Low,Completed,69.0,Average
+934,Female,18,82.1,4.4,5.22,24.0,8.0,7.7,Yes,Yes,High School,Medium,Not Completed,51.0,Average
+823,Male,18,70.3,5.6,5.06,22.0,3.0,4.7,Yes,Yes,High School,Medium,Not Completed,52.6,Average
+766,Female,18,76.6,8.4,6.21,,1.0,6.9,No,Yes,Bachelor,Low,Completed,63.8,Average
+262,Female,20,78.9,13.2,6.6,,,8.7,Yes,Yes,High School,Low,Not Completed,63.6,Average
+568,Male,20,80.5,0.0,4.19,18.0,5.0,4.8,Yes,No,Bachelor,Medium,Not Completed,43.3,Low
+833,Male,23,99.4,,5.65,28.0,6.0,8.3,No,No,Master,High,Not Completed,68.0,Average
+382,Female,20,65.3,14.8,,25.0,3.0,8.2,No,Yes,Bachelor,Low,Not Completed,50.2,Average
+334,Male,22,41.6,17.1,,32.0,7.0,9.0,No,Yes,High School,Low,Completed,62.5,Average
+537,Female,25,58.8,16.1,6.73,28.0,2.0,6.5,No,Yes,High School,Medium,Not Completed,59.5,Average
+352,Female,18,80.0,17.7,6.14,27.0,6.0,8.2,No,No,High School,Medium,Completed,74.2,Average
+786,Female,20,79.1,17.7,5.8,15.0,5.0,5.9,Yes,No,High School,Low,Completed,67.8,Average
+452,Female,22,94.5,24.5,6.57,37.0,8.0,7.5,Yes,Yes,High School,Medium,Completed,89.6,High
+79,Male,21,90.1,11.6,7.27,,10.0,7.8,No,No,High School,High,Not Completed,67.8,Average
+30,Male,23,85.3,8.3,5.44,,6.0,6.8,No,Yes,Bachelor,Medium,Not Completed,61.2,Average
+713,Male,20,,31.5,7.83,29.0,7.0,7.2,No,Yes,Master,Low,Completed,88.1,High
+278,Female,17,70.4,8.6,5.1,27.0,3.0,8.7,No,No,High School,Low,Not Completed,46.3,Low
+248,Female,24,100.0,13.0,6.06,29.0,6.0,4.8,No,Yes,Master,Medium,Completed,54.0,Average
+658,Male,17,47.2,13.1,5.6,26.0,8.0,,No,Yes,Bachelor,Medium,Completed,57.2,Average
+307,Male,20,86.1,14.8,6.34,29.0,8.0,7.7,No,Yes,Bachelor,High,Completed,72.9,Average
+166,Female,25,64.9,10.9,6.32,15.0,5.0,7.3,No,Yes,Bachelor,High,Not Completed,50.4,Average
+817,Female,23,76.7,13.4,3.86,13.0,4.0,7.7,Yes,Yes,High School,Medium,Completed,62.2,Average
+179,Female,20,79.2,18.5,5.54,35.0,4.0,7.4,Yes,Yes,High School,Low,Completed,69.8,Average
+486,Female,18,81.5,14.2,6.61,24.0,8.0,7.0,No,Yes,High School,High,Not Completed,64.3,Average
+66,Female,23,62.7,19.0,6.96,30.0,3.0,6.3,No,Yes,PhD,Medium,Not Completed,64.0,Average
+142,Male,18,93.3,1.8,4.54,37.0,3.0,6.5,No,No,Bachelor,Medium,Not Completed,56.8,Average
+437,Male,21,86.0,18.9,6.18,32.0,3.0,6.0,No,No,Master,High,Completed,67.2,Average
+523,Female,18,87.1,13.0,6.52,22.0,1.0,8.7,No,Yes,Bachelor,Low,Completed,57.2,Average
+845,Male,18,71.0,23.4,7.56,25.0,2.0,6.7,Yes,Yes,PhD,Low,Completed,72.5,Average
+421,Female,20,81.0,9.5,4.88,27.0,8.0,6.3,No,Yes,Bachelor,Medium,Not Completed,60.0,Average
+405,Male,23,91.7,9.2,5.0,27.0,9.0,,Yes,Yes,High School,High,Completed,61.8,Average
+680,Female,22,83.9,15.5,4.95,33.0,,7.4,No,Yes,PhD,High,Not Completed,61.4,Average
+266,Female,20,73.2,15.0,5.23,23.0,4.0,4.9,Yes,No,High School,Medium,Completed,60.2,Average
+880,Male,23,,20.5,,25.0,8.0,8.2,No,Yes,Bachelor,Low,Not Completed,63.9,Average
+293,Female,17,66.5,8.4,4.9,23.0,8.0,8.2,No,Yes,High School,Medium,Completed,63.2,Average
+222,Female,17,76.1,10.7,4.6,27.0,6.0,5.8,No,No,High School,Low,Completed,54.3,Average
+828,Male,22,76.6,20.6,7.45,32.0,2.0,6.4,Yes,Yes,PhD,Low,Not Completed,70.9,Average
+236,Female,20,79.3,17.4,5.49,27.0,8.0,8.7,No,Yes,Bachelor,Medium,Not Completed,59.4,Average
+526,Male,19,87.1,24.7,6.87,,4.0,5.7,No,Yes,PhD,Medium,Completed,76.6,High
+193,Female,25,80.0,12.6,6.53,25.0,4.0,,Yes,Yes,Bachelor,Low,Not Completed,73.8,Average
+322,Female,25,74.1,,5.59,27.0,4.0,,Yes,No,Master,Medium,Not Completed,62.1,Average
+50,Male,17,64.7,,5.05,21.0,5.0,6.0,No,Yes,High School,Low,Not Completed,58.3,Average
+892,Female,23,84.2,16.9,5.01,31.0,5.0,7.9,No,No,Master,Medium,Completed,68.3,Average
+3,Female,24,71.2,12.3,5.7,27.0,9.0,7.9,No,No,Master,High,Not Completed,57.7,Average
+818,Male,20,82.2,15.8,5.69,28.0,5.0,6.7,No,Yes,High School,Low,Not Completed,68.8,Average
+371,Male,24,73.7,18.3,5.61,23.0,2.0,7.1,Yes,Yes,Master,Low,Not Completed,58.1,Average
+922,Male,25,84.0,16.4,6.47,27.0,8.0,8.1,No,Yes,Bachelor,Medium,Not Completed,72.0,Average
+250,Female,24,61.2,14.4,4.84,,5.0,6.9,Yes,Yes,Master,Low,Completed,68.1,Average
+549,Female,24,63.5,10.3,5.03,25.0,,6.0,Yes,Yes,Bachelor,High,Completed,67.4,Average
+433,Female,20,74.0,11.7,5.08,31.0,,6.2,No,No,Bachelor,High,Completed,63.0,Average
+939,Male,22,80.3,22.6,6.78,34.0,,6.7,Yes,No,Bachelor,High,Completed,75.4,High
+508,Female,25,67.2,17.0,6.14,28.0,0.0,5.3,Yes,Yes,High School,High,Not Completed,47.6,Low
+34,Female,17,76.3,14.5,5.97,24.0,8.0,6.5,No,Yes,Bachelor,Low,Completed,66.3,Average
+205,Female,22,86.0,8.4,3.87,24.0,8.0,5.7,No,No,High School,Low,Not Completed,55.6,Average
+890,Male,21,100.0,5.8,6.41,25.0,7.0,9.0,No,No,High School,High,Not Completed,57.4,Average
+589,Male,24,70.7,20.9,6.57,32.0,7.0,8.6,No,Yes,High School,Medium,Not Completed,57.9,Average
+731,Male,18,60.4,6.6,4.5,24.0,0.0,6.0,No,Yes,Master,Medium,Completed,64.4,Average
+78,Male,17,64.2,14.5,6.07,32.0,5.0,6.1,No,Yes,Bachelor,Medium,Completed,66.8,Average
+85,Male,21,60.2,15.2,6.01,26.0,4.0,8.4,No,Yes,High School,Medium,Completed,57.7,Average
+306,Female,17,63.4,25.3,5.36,29.0,5.0,7.7,Yes,Yes,Bachelor,Medium,Completed,72.9,Average
+83,Male,24,67.5,17.9,5.54,19.0,7.0,6.5,No,Yes,High School,High,Not Completed,54.2,Average
+449,Male,17,81.0,9.1,4.54,32.0,5.0,8.2,No,Yes,High School,Medium,Completed,60.7,Average
+998,Male,19,87.6,14.7,5.44,33.0,1.0,6.6,No,Yes,Bachelor,Medium,Completed,65.9,Average
+752,Female,22,82.2,11.9,6.45,26.0,7.0,7.3,No,Yes,High School,High,Not Completed,67.6,Average
+532,Female,21,75.0,19.9,7.26,29.0,6.0,6.0,No,Yes,High School,Medium,Completed,61.9,Average
+324,Male,25,,8.9,5.76,31.0,6.0,4.8,No,Yes,PhD,Medium,Completed,58.5,Average
+496,Male,24,92.9,5.6,5.25,21.0,6.0,5.5,No,Yes,Bachelor,High,Not Completed,57.5,Average
+911,Female,23,100.0,16.7,7.68,25.0,6.0,6.9,No,Yes,Master,Low,Not Completed,68.7,Average
+6,Male,23,86.6,3.0,5.2,,4.0,,No,Yes,Master,High,Completed,61.0,Average
+426,Female,17,74.4,18.5,5.79,37.0,,9.5,No,Yes,High School,Medium,Not Completed,58.9,Average
+491,Male,18,48.7,9.6,4.7,19.0,3.0,8.2,Yes,Yes,Master,Medium,Not Completed,47.6,Low
+98,Male,22,70.0,8.7,4.19,19.0,6.0,7.0,Yes,Yes,Bachelor,Medium,Not Completed,54.5,Average
+762,Male,18,57.9,16.7,6.74,18.0,5.0,6.7,No,No,Bachelor,Medium,Completed,69.6,Average
+423,Male,19,81.1,18.1,,28.0,,5.7,No,Yes,Bachelor,Medium,Completed,70.7,Average
+886,Male,17,77.1,19.4,6.91,36.0,10.0,9.6,No,No,Bachelor,High,Completed,70.5,Average
+282,Male,18,,2.0,5.18,13.0,7.0,8.4,Yes,Yes,High School,Low,Not Completed,44.7,Low
+267,Female,20,86.0,0.0,3.72,23.0,6.0,7.0,No,Yes,High School,High,Completed,50.6,Average
+443,Male,20,77.2,,6.44,24.0,6.0,5.6,No,Yes,Bachelor,Low,Completed,61.7,Average
+746,Female,20,73.5,7.8,5.12,17.0,1.0,5.9,No,Yes,Bachelor,Medium,Completed,63.8,Average
+383,Female,22,40.0,20.6,7.36,15.0,0.0,5.7,No,No,Bachelor,Medium,Completed,59.5,Average
+693,Male,21,77.7,7.0,,24.0,0.0,8.8,No,No,Bachelor,Medium,Not Completed,43.9,Low
+894,Male,24,84.4,13.6,5.8,34.0,7.0,6.4,Yes,Yes,Master,High,Completed,71.7,Average
+535,Female,21,,9.9,4.22,19.0,3.0,5.9,No,Yes,High School,High,Completed,50.6,Average
+119,Female,18,70.1,14.4,5.29,27.0,8.0,7.2,No,No,High School,Medium,Completed,62.9,Average
+389,Female,18,95.3,20.1,6.48,29.0,,6.3,No,Yes,Bachelor,Medium,Completed,68.6,Average
+251,Male,25,56.4,22.3,7.65,24.0,3.0,6.5,No,Yes,Master,Medium,Completed,66.1,Average
+944,Female,18,68.1,8.9,4.42,17.0,6.0,8.6,No,No,High School,Medium,Completed,50.4,Average
+454,Female,21,,19.9,6.0,30.0,5.0,6.1,No,Yes,Bachelor,Low,Not Completed,59.1,Average
+10,Female,24,73.7,10.8,5.46,25.0,6.0,8.5,Yes,No,Master,Low,Not Completed,49.3,Low
+197,Female,20,77.8,5.3,3.59,21.0,8.0,7.2,No,No,High School,Medium,Not Completed,50.2,Average
+619,Female,19,86.4,14.5,5.87,26.0,7.0,7.5,No,No,Master,High,Not Completed,63.8,Average
+82,Female,25,67.5,10.5,4.89,24.0,3.0,7.8,Yes,Yes,Master,Low,Not Completed,41.2,Low
+399,Female,21,78.9,14.9,,25.0,6.0,8.1,No,No,Bachelor,High,Completed,76.1,High
+502,Female,21,82.3,8.5,4.76,,4.0,8.8,No,Yes,High School,High,Completed,60.9,Average
+635,Male,23,65.7,23.4,7.7,25.0,4.0,8.9,Yes,No,Master,Low,Not Completed,59.1,Average
+240,Male,21,85.4,2.5,5.3,30.0,9.0,6.1,Yes,Yes,Bachelor,High,Completed,55.3,Average
+310,Male,18,89.3,14.1,5.27,26.0,2.0,7.5,Yes,Yes,Bachelor,Medium,Not Completed,53.5,Average
+212,Female,19,85.5,18.8,6.83,32.0,8.0,,Yes,No,Bachelor,Medium,Completed,71.0,Average
+835,Male,21,90.9,10.0,5.11,30.0,,7.1,No,Yes,Bachelor,Medium,Completed,65.6,Average
+381,Male,18,70.5,18.9,7.73,22.0,2.0,5.7,No,Yes,High School,Low,Not Completed,58.2,Average
+602,Male,22,84.8,5.7,6.97,20.0,6.0,6.7,No,Yes,High School,Medium,Completed,61.5,Average
+228,Male,18,85.6,8.2,5.25,30.0,4.0,8.3,No,Yes,Bachelor,Low,Completed,60.4,Average
+874,Male,17,,19.2,7.07,25.0,8.0,5.9,No,Yes,Bachelor,Low,Completed,64.7,Average
+360,Female,19,91.2,0.0,3.51,27.0,0.0,5.3,No,Yes,High School,Medium,Not Completed,37.4,Low
+814,Female,24,86.4,9.2,6.49,29.0,4.0,7.6,No,Yes,High School,High,Not Completed,64.8,Average
+178,Male,18,57.7,11.7,5.8,23.0,7.0,5.2,Yes,Yes,High School,High,Completed,60.2,Average
+995,Male,24,82.3,12.2,4.86,19.0,,8.4,No,Yes,High School,High,Not Completed,53.8,Average
+757,Female,21,89.2,22.5,6.94,23.0,6.0,7.2,Yes,Yes,PhD,Medium,Completed,73.6,Average
+494,Male,24,72.6,9.6,5.75,26.0,7.0,4.9,Yes,No,Bachelor,Low,Completed,61.4,Average
+335,Male,19,80.2,11.3,4.19,36.0,5.0,,Yes,No,High School,Low,Not Completed,63.6,Average
+893,Female,21,64.7,,6.73,28.0,5.0,6.3,No,Yes,PhD,Low,Not Completed,62.9,Average
+8,Female,22,69.0,10.2,6.46,21.0,8.0,6.8,No,Yes,High School,Low,Not Completed,62.2,Average
+156,Male,24,,,6.52,33.0,7.0,6.9,No,Yes,Master,Medium,Not Completed,75.2,High
+843,Male,17,57.0,,4.36,20.0,7.0,6.6,Yes,Yes,High School,Medium,Completed,55.5,Average
+751,Male,24,71.5,6.9,,22.0,3.0,6.4,No,Yes,High School,Low,Completed,54.7,Average
+942,Female,17,82.4,11.6,6.33,28.0,7.0,6.9,Yes,Yes,Bachelor,High,Not Completed,75.2,High
+483,Male,22,49.9,12.5,5.51,31.0,3.0,8.0,No,No,Bachelor,Low,Completed,57.4,Average
+847,Male,21,86.4,25.1,7.65,32.0,10.0,6.2,Yes,Yes,PhD,Medium,Not Completed,78.1,High
+750,Female,19,75.2,13.9,5.95,21.0,10.0,8.0,No,No,Master,Low,Completed,61.3,Average
+904,Female,21,77.3,3.8,3.96,23.0,5.0,7.4,Yes,Yes,High School,Medium,Completed,58.7,Average
+592,Female,20,78.7,12.2,4.34,27.0,0.0,7.8,No,Yes,Master,Medium,Not Completed,51.4,Average
+953,Male,20,66.9,30.7,7.58,36.0,8.0,4.0,No,Yes,PhD,Medium,Completed,84.8,High
+581,Male,17,77.3,12.3,5.43,28.0,3.0,6.9,No,Yes,High School,Low,Not Completed,55.4,Average
+440,Male,24,64.5,18.3,6.87,24.0,7.0,9.9,Yes,No,High School,Medium,Not Completed,53.8,Average
+543,Male,19,88.3,17.3,5.75,29.0,8.0,8.8,No,Yes,PhD,High,Not Completed,55.3,Average
+597,Female,24,73.3,7.9,3.6,24.0,6.0,7.0,No,No,Bachelor,Medium,Not Completed,50.5,Average
+724,Female,20,76.1,7.4,4.84,38.0,9.0,8.4,No,Yes,Master,High,Not Completed,61.5,Average
+678,Male,19,57.3,12.6,,23.0,4.0,8.7,No,No,High School,Medium,Not Completed,51.5,Average
+479,Female,21,65.6,,5.77,23.0,5.0,7.4,No,No,High School,Low,Completed,66.5,Average
+229,Female,20,76.1,9.5,5.02,26.0,5.0,6.2,Yes,Yes,High School,Low,Completed,57.9,Average
+975,Male,18,80.4,0.6,4.08,23.0,6.0,6.2,No,Yes,Bachelor,Low,Not Completed,56.7,Average
+815,Female,17,53.6,10.4,4.71,19.0,0.0,8.4,No,No,Master,High,Not Completed,39.7,Low
+213,Female,20,61.3,7.3,6.21,20.0,3.0,8.5,No,Yes,High School,High,Not Completed,53.0,Average
+80,Male,25,70.6,,5.67,38.0,3.0,7.9,Yes,Yes,High School,Medium,Not Completed,62.1,Average
+149,Male,21,59.4,0.0,5.43,23.0,7.0,8.3,Yes,Yes,High School,Low,Completed,50.6,Average
+303,Female,17,59.8,19.0,6.72,22.0,4.0,7.6,No,No,Bachelor,High,Completed,62.8,Average
+356,Female,24,88.6,7.9,4.97,27.0,10.0,5.6,No,Yes,Bachelor,Low,Not Completed,56.8,Average
+430,Male,17,72.5,4.9,5.04,25.0,2.0,7.1,No,No,Bachelor,High,Completed,56.4,Average
+520,Male,19,79.2,14.2,5.57,27.0,3.0,7.7,No,Yes,Bachelor,Low,Not Completed,66.3,Average
+363,Male,23,100.0,9.7,5.76,31.0,7.0,6.5,No,Yes,Bachelor,Medium,Not Completed,62.8,Average
+595,Female,22,83.8,,5.69,21.0,3.0,5.8,No,Yes,Bachelor,Medium,Completed,66.2,Average
+358,Female,19,88.2,12.1,4.09,25.0,5.0,5.1,Yes,Yes,Master,Medium,Completed,57.0,Average
+134,Male,25,66.9,8.2,5.69,28.0,9.0,,No,Yes,High School,Medium,Completed,61.2,Average
+830,Male,21,70.4,5.9,2.72,29.0,5.0,5.6,No,Yes,High School,Low,Completed,48.3,Low
+312,Male,23,87.3,13.2,7.0,34.0,6.0,6.0,No,Yes,High School,Medium,Completed,75.4,High
+622,Male,23,84.7,18.2,5.44,27.0,7.0,,Yes,No,Master,Low,Not Completed,58.7,Average
+465,Female,18,80.1,16.3,,27.0,3.0,,No,No,Master,Low,Not Completed,59.7,Average
+994,Female,24,64.4,10.8,5.13,22.0,2.0,7.1,No,Yes,High School,Low,Not Completed,54.4,Average
+1,Male,24,,2.8,4.84,22.0,6.0,5.4,Yes,Yes,High School,Medium,Not Completed,47.8,Low
+317,Male,24,90.3,12.9,4.55,29.0,8.0,7.5,No,Yes,High School,High,Completed,67.2,Average
+723,Male,18,75.1,11.1,5.16,16.0,5.0,7.1,Yes,No,High School,Medium,Completed,58.6,Average
+560,Female,18,64.4,8.8,,,6.0,6.0,Yes,Yes,High School,Low,Not Completed,47.9,Low
+372,Male,18,94.1,17.1,5.7,33.0,8.0,7.9,No,Yes,Bachelor,Medium,Not Completed,63.4,Average
+545,Female,18,63.2,23.9,6.85,35.0,7.0,7.2,No,Yes,PhD,Medium,Completed,78.6,High
+850,Female,20,77.7,13.8,5.85,36.0,4.0,8.4,Yes,Yes,High School,Medium,Not Completed,59.1,Average
+395,Male,20,70.1,,6.37,,3.0,6.6,No,Yes,High School,Medium,Not Completed,55.5,Average
+173,Male,25,72.9,15.2,6.68,33.0,4.0,7.8,Yes,Yes,Master,Medium,Not Completed,67.1,Average
+126,Male,25,52.4,3.6,4.18,12.0,3.0,,No,Yes,Bachelor,Medium,Completed,47.9,Low
+899,Male,19,67.2,26.2,8.06,46.0,2.0,8.9,No,Yes,PhD,Low,Completed,79.6,High
+579,Male,18,84.9,11.5,5.3,21.0,6.0,8.3,Yes,Yes,Bachelor,High,Completed,67.5,Average
+949,Female,25,,14.7,6.04,36.0,10.0,,No,Yes,Master,High,Not Completed,65.7,Average
+921,Female,24,51.3,11.3,4.61,30.0,6.0,9.0,No,Yes,High School,Medium,Not Completed,58.9,Average
+91,Male,18,69.5,10.4,5.23,31.0,2.0,7.7,No,Yes,High School,Medium,Completed,53.4,Average
+971,Female,22,60.6,14.0,7.51,22.0,6.0,5.3,No,Yes,Master,High,Completed,69.5,Average
+182,Male,18,87.7,6.5,3.63,29.0,7.0,8.2,Yes,Yes,Bachelor,Medium,Not Completed,64.0,Average
+364,Female,17,82.7,19.2,5.91,30.0,5.0,7.4,No,No,Master,Low,Not Completed,63.7,Average
+275,Male,18,68.6,12.7,5.37,24.0,4.0,6.0,No,Yes,Bachelor,Low,Completed,62.4,Average
+913,Female,19,82.9,20.4,7.82,37.0,3.0,7.3,No,Yes,PhD,High,Not Completed,61.1,Average
+70,Female,17,54.5,24.8,7.53,22.0,4.0,7.5,Yes,Yes,Master,High,Not Completed,71.4,Average
+292,Male,25,55.7,19.2,5.66,29.0,6.0,6.3,No,No,High School,Low,Not Completed,68.7,Average
+132,Male,24,90.3,,5.52,26.0,10.0,6.0,No,Yes,Bachelor,Medium,Not Completed,58.8,Average
+301,Male,17,92.4,5.4,3.8,32.0,9.0,6.5,No,Yes,High School,Medium,Not Completed,58.4,Average
+448,Female,20,53.4,7.6,3.75,18.0,5.0,7.8,No,Yes,Bachelor,High,Not Completed,46.4,Low
+327,Female,24,99.3,21.5,5.17,19.0,9.0,7.5,No,Yes,Master,Low,Not Completed,70.4,Average
+145,Male,24,52.1,24.1,7.25,23.0,4.0,6.3,No,No,Bachelor,Low,Completed,66.7,Average
+552,Female,21,75.6,17.6,6.58,32.0,5.0,6.1,Yes,Yes,Bachelor,Medium,Not Completed,56.6,Average
+596,Male,17,82.1,27.0,7.95,28.0,5.0,6.4,Yes,No,PhD,Medium,Not Completed,68.8,Average
+656,Male,24,84.8,,5.08,30.0,5.0,5.1,No,Yes,Bachelor,Low,Not Completed,57.5,Average
+136,Male,25,85.0,0.0,,25.0,6.0,8.8,No,Yes,High School,Medium,Completed,54.0,Average
+431,Male,25,75.5,7.5,5.07,31.0,6.0,7.9,No,Yes,PhD,Medium,Not Completed,68.0,Average
+165,Male,17,87.1,23.6,5.83,32.0,4.0,6.7,No,Yes,Master,Medium,Not Completed,68.6,Average
+29,Female,20,66.5,4.0,5.32,27.0,3.0,6.7,No,Yes,Bachelor,Medium,Completed,54.5,Average
+588,Male,17,100.0,10.2,4.74,22.0,7.0,6.0,No,Yes,Master,Medium,Completed,77.6,High
+194,Female,18,,20.0,5.85,25.0,7.0,6.2,No,Yes,PhD,Medium,Completed,76.3,High
+791,Male,23,79.9,7.9,4.72,29.0,10.0,5.3,Yes,Yes,High School,High,Completed,60.3,Average
+653,Female,22,64.5,14.5,5.45,24.0,3.0,9.0,Yes,Yes,Master,Low,Not Completed,56.4,Average
+170,Female,22,100.0,18.4,5.63,28.0,4.0,6.5,No,Yes,Bachelor,High,Completed,68.8,Average
+514,Female,25,59.5,19.2,5.82,28.0,5.0,6.0,No,Yes,High School,Medium,Not Completed,43.8,Low
+141,Female,21,92.0,16.8,5.96,24.0,5.0,5.5,No,Yes,High School,Low,Completed,66.5,Average
+174,Male,19,84.3,3.7,4.45,22.0,7.0,6.2,Yes,Yes,Bachelor,Medium,Not Completed,48.2,Low
+7,Male,21,77.8,10.7,5.61,28.0,2.0,7.7,No,Yes,Bachelor,Medium,Not Completed,56.3,Average
+657,Male,21,57.6,21.6,6.81,19.0,2.0,7.4,No,Yes,High School,Low,Completed,70.8,Average
+965,Male,21,81.2,25.1,7.83,32.0,2.0,5.1,Yes,No,High School,Medium,Completed,57.7,Average
+74,Female,20,85.6,,4.1,16.0,5.0,7.6,No,Yes,Bachelor,High,Not Completed,43.0,Low
+765,Male,25,86.9,12.2,4.0,36.0,8.0,7.8,No,No,Master,Low,Completed,73.6,Average
+654,Female,23,82.0,0.0,3.03,25.0,9.0,5.3,Yes,Yes,Bachelor,Medium,Not Completed,45.9,Low
+239,Female,25,65.8,15.3,5.69,23.0,,6.5,No,Yes,Master,High,Completed,58.3,Average
+146,Male,21,65.7,9.1,4.73,16.0,,8.9,No,Yes,High School,Low,Completed,57.5,Average
+809,Male,23,83.6,21.0,4.7,37.0,6.0,5.4,No,Yes,Master,High,Not Completed,67.6,Average
+235,Male,21,81.4,13.2,5.55,19.0,4.0,8.2,No,Yes,PhD,Medium,Not Completed,51.3,Average
+221,Female,20,90.3,3.1,3.19,33.0,7.0,6.2,No,Yes,High School,Medium,Not Completed,48.5,Low
+501,Female,19,78.8,17.9,5.96,26.0,,,Yes,Yes,Bachelor,Medium,Not Completed,70.0,Average
+674,Female,24,72.8,10.3,5.58,22.0,3.0,6.0,No,No,High School,Medium,Completed,57.8,Average
+133,Male,19,63.6,17.7,8.12,19.0,2.0,4.9,No,No,PhD,Medium,Not Completed,55.7,Average
+812,Female,20,64.3,19.9,5.29,27.0,4.0,6.9,No,Yes,PhD,Medium,Not Completed,57.1,Average
+434,Male,25,58.5,14.3,6.46,,4.0,4.3,Yes,No,High School,Medium,Not Completed,47.4,Low
+671,Male,21,78.9,15.0,5.89,22.0,2.0,6.2,Yes,Yes,Master,Medium,Not Completed,61.8,Average
+186,Female,24,71.5,23.5,6.35,27.0,2.0,7.8,Yes,Yes,Master,High,Not Completed,57.8,Average
+42,Male,23,60.5,3.8,3.35,18.0,2.0,5.9,No,Yes,Bachelor,Medium,Completed,48.8,Low
+626,Male,19,84.0,24.6,6.48,32.0,9.0,5.3,No,No,PhD,High,Not Completed,70.6,Average
+109,Male,21,83.7,13.7,5.89,27.0,8.0,7.4,Yes,Yes,High School,Low,Completed,74.8,Average
+604,Male,25,80.9,7.2,4.92,31.0,,6.1,Yes,No,Bachelor,High,Completed,62.8,Average
+57,Male,19,75.9,8.6,5.19,16.0,3.0,7.2,Yes,No,Bachelor,Medium,Completed,53.7,Average
+429,Male,24,94.2,7.2,5.46,25.0,9.0,9.1,No,No,Bachelor,High,Not Completed,59.7,Average
+469,Male,18,84.0,,6.2,23.0,6.0,7.7,No,Yes,Bachelor,High,Completed,59.5,Average
+577,Male,24,84.4,3.3,5.57,24.0,8.0,5.8,No,No,Bachelor,Medium,Not Completed,56.2,Average
+878,Female,24,59.7,14.6,4.63,28.0,6.0,7.0,Yes,No,High School,Medium,Not Completed,56.7,Average
+25,Male,24,84.5,16.6,,27.0,3.0,10.0,Yes,No,Bachelor,Low,Not Completed,75.8,High
+441,Male,24,95.5,8.5,5.57,22.0,4.0,7.3,No,Yes,High School,Medium,Completed,63.6,Average
+883,Male,22,68.0,17.0,6.55,26.0,2.0,8.6,No,Yes,Master,Medium,Completed,54.4,Average
+544,Female,24,83.8,,3.22,30.0,6.0,5.7,No,Yes,High School,Medium,Not Completed,53.4,Average
+634,Female,19,75.7,12.2,3.86,25.0,2.0,6.6,Yes,Yes,Bachelor,Low,Not Completed,48.0,Low
+831,Male,22,95.0,8.8,4.98,38.0,7.0,7.5,Yes,Yes,Master,Medium,Not Completed,55.0,Average
+945,Male,23,69.2,0.4,5.79,20.0,5.0,6.1,No,Yes,Bachelor,Medium,Completed,50.3,Average
+339,Male,23,63.9,8.0,4.58,26.0,6.0,8.3,No,Yes,High School,Low,Not Completed,51.1,Average
+52,Female,23,70.7,13.2,5.59,27.0,6.0,6.9,No,No,High School,Medium,Completed,62.1,Average
+384,Female,23,99.6,14.7,6.96,31.0,4.0,5.7,No,Yes,Bachelor,Medium,Completed,76.9,High
+528,Male,24,72.3,19.9,6.85,26.0,9.0,7.3,No,Yes,High School,Medium,Not Completed,74.6,Average
+939,Male,22,80.3,22.6,6.78,34.0,,6.7,Yes,No,Bachelor,High,Completed,75.4,High
+888,Male,24,77.2,15.0,7.52,31.0,6.0,6.5,No,Yes,High School,Medium,Not Completed,53.1,Average
+265,Female,17,,2.0,3.84,24.0,6.0,7.0,Yes,Yes,High School,Medium,Completed,53.1,Average
+550,Female,18,,22.4,5.38,36.0,6.0,6.4,No,Yes,High School,High,Not Completed,75.7,High
+914,Male,21,55.0,26.8,6.89,35.0,3.0,6.0,No,No,PhD,High,Completed,68.6,Average
+698,Female,17,73.4,,4.93,22.0,4.0,8.4,Yes,No,Bachelor,High,Completed,63.0,Average
+396,Female,23,73.6,14.5,6.01,25.0,4.0,6.6,No,Yes,High School,Low,Completed,63.9,Average
+530,Female,23,63.4,18.6,6.24,29.0,5.0,6.4,No,No,Bachelor,Low,Not Completed,45.4,Low
+869,Female,25,79.5,18.5,5.26,26.0,4.0,4.6,No,Yes,Master,Medium,Completed,67.3,Average
+19,Male,22,53.2,5.4,3.22,19.0,6.0,6.4,Yes,Yes,High School,Medium,Completed,43.9,Low
+732,Female,25,73.9,10.8,6.81,29.0,9.0,7.2,No,No,Master,Low,Not Completed,63.9,Average
+679,Female,22,73.0,21.6,6.66,36.0,7.0,7.0,No,No,Master,High,Not Completed,65.0,Average
+582,Female,20,70.1,20.7,7.49,21.0,6.0,7.6,No,Yes,PhD,High,Not Completed,71.0,Average
+977,Female,21,73.7,19.7,5.39,27.0,2.0,5.4,No,Yes,Bachelor,Medium,Not Completed,55.8,Average
+368,Female,21,75.5,16.0,5.95,29.0,7.0,7.8,No,No,Bachelor,Low,Completed,67.4,Average
+84,Male,20,55.4,11.7,5.45,23.0,5.0,4.5,Yes,Yes,Bachelor,Medium,Not Completed,46.1,Low
+62,Male,25,92.9,19.6,6.81,38.0,6.0,7.1,Yes,Yes,High School,Medium,Completed,77.7,High
+842,Female,21,69.9,13.9,6.06,26.0,8.0,7.7,No,Yes,Bachelor,High,Not Completed,59.6,Average
+273,Female,21,63.4,9.1,4.87,,5.0,6.5,Yes,Yes,Bachelor,Medium,Not Completed,58.1,Average
+286,Male,22,46.5,,4.91,17.0,0.0,6.7,No,Yes,Master,Low,Not Completed,46.8,Low
+361,Male,22,81.3,13.4,5.76,23.0,2.0,7.6,No,No,High School,Medium,Not Completed,56.9,Average
+355,Male,21,78.0,17.1,6.91,32.0,3.0,6.6,No,No,Master,Medium,Not Completed,71.2,Average
+482,Female,24,100.0,9.2,5.66,21.0,5.0,5.6,Yes,Yes,Master,Medium,Completed,66.5,Average
+279,Female,24,73.8,0.8,4.59,32.0,10.0,5.9,No,No,Bachelor,High,Not Completed,46.3,Low
+13,Female,25,69.8,22.9,7.63,34.0,5.0,6.6,No,Yes,Master,Low,Completed,66.0,Average
+183,Female,17,79.4,13.4,5.02,29.0,5.0,7.9,No,Yes,High School,Medium,Not Completed,59.3,Average
+369,Male,20,76.7,3.9,4.01,18.0,1.0,9.1,No,Yes,High School,Medium,Not Completed,51.3,Average
+600,Male,22,85.5,3.2,4.44,20.0,4.0,4.6,No,No,Bachelor,Medium,Completed,45.4,Low
+631,Female,17,61.0,17.0,6.17,20.0,0.0,6.2,No,No,Bachelor,Low,Not Completed,56.6,Average
+224,Male,25,,5.8,4.59,14.0,6.0,6.5,No,Yes,Master,Low,Not Completed,47.0,Low
+972,Female,22,78.6,7.1,4.6,13.0,2.0,8.1,No,Yes,High School,Medium,Completed,51.1,Average
+715,Male,22,75.8,16.4,5.96,24.0,8.0,7.1,Yes,Yes,High School,Low,Completed,70.7,Average
+778,Female,25,54.8,15.9,5.54,23.0,2.0,6.6,No,No,Bachelor,Low,Not Completed,53.4,Average
+558,Male,23,67.4,14.6,6.12,32.0,6.0,7.5,Yes,No,High School,Medium,Not Completed,63.4,Average
+466,Male,25,62.3,10.2,4.99,16.0,6.0,4.5,Yes,No,High School,Low,Not Completed,59.4,Average
+598,Male,23,76.1,15.2,6.97,30.0,7.0,7.0,No,Yes,Master,Low,Completed,59.0,Average
+708,Female,24,74.0,0.0,4.56,23.0,5.0,5.9,Yes,Yes,Bachelor,Medium,Not Completed,51.8,Average
+177,Female,23,74.7,15.0,6.53,27.0,1.0,4.7,No,No,High School,Low,Not Completed,52.3,Average
+681,Female,18,90.0,11.6,6.56,30.0,5.0,8.0,No,Yes,Bachelor,Medium,Not Completed,69.3,Average
+854,Female,21,68.0,9.0,4.44,32.0,2.0,7.7,Yes,Yes,High School,Low,Completed,65.3,Average
+955,Male,19,62.6,6.8,5.71,18.0,5.0,5.6,No,Yes,Bachelor,Low,Completed,51.0,Average
+457,Male,17,50.0,12.7,5.44,15.0,4.0,5.2,No,No,Bachelor,Low,Not Completed,44.4,Low
+533,Female,17,89.4,8.4,5.39,36.0,6.0,7.4,Yes,Yes,Master,High,Completed,62.6,Average
+394,Female,24,64.0,5.1,4.62,22.0,7.0,6.0,Yes,Yes,High School,High,Not Completed,40.8,Low
+164,Female,24,74.3,,6.89,21.0,8.0,8.5,No,Yes,PhD,Low,Not Completed,63.1,Average
+249,Female,18,77.4,11.9,5.67,34.0,8.0,7.8,Yes,Yes,High School,Medium,Completed,64.7,Average
+650,Male,24,92.4,,7.64,,9.0,8.7,No,Yes,Master,Low,Not Completed,63.7,Average
+903,Male,17,79.3,4.2,4.88,23.0,9.0,7.1,No,Yes,Bachelor,Medium,Not Completed,52.3,Average
+685,Female,17,81.2,3.0,4.83,29.0,6.0,5.9,Yes,Yes,High School,High,Not Completed,56.7,Average
+376,Male,20,62.3,13.6,7.11,22.0,3.0,6.4,No,No,Bachelor,Low,Completed,62.0,Average
+413,Female,25,62.9,12.8,3.69,24.0,6.0,6.6,No,No,Bachelor,Medium,Completed,63.1,Average
+75,Female,18,71.5,15.3,,28.0,5.0,7.7,Yes,Yes,Bachelor,High,Completed,65.5,Average
+114,Female,19,91.0,14.2,4.21,,4.0,7.8,No,Yes,High School,Medium,Completed,69.3,Average
+584,Male,23,79.4,27.9,6.84,40.0,10.0,6.6,No,No,Master,Medium,Not Completed,82.4,High
+573,Male,20,65.3,16.8,6.71,24.0,,8.1,Yes,Yes,Bachelor,Medium,Not Completed,57.2,Average
+391,Female,21,76.9,17.1,7.01,35.0,5.0,5.6,Yes,No,High School,Medium,Completed,63.3,Average
+105,Female,19,54.4,14.9,4.82,23.0,4.0,8.4,Yes,No,Master,Low,Not Completed,55.0,Average
+115,Female,20,60.6,,6.97,35.0,6.0,4.5,Yes,Yes,High School,Medium,Completed,71.0,Average
+418,Male,17,52.8,13.0,5.32,18.0,7.0,8.0,Yes,Yes,Bachelor,Low,Completed,63.9,Average
+669,Male,18,63.4,15.1,6.16,22.0,0.0,7.9,Yes,Yes,High School,Low,Not Completed,56.3,Average
+458,Male,19,59.4,9.7,5.12,,2.0,4.5,Yes,Yes,Bachelor,Low,Not Completed,48.6,Low
+410,Male,22,48.8,13.7,,18.0,0.0,7.4,No,Yes,High School,High,Not Completed,50.0,Average
+93,Female,23,61.1,10.4,5.94,24.0,,,No,Yes,Bachelor,Medium,Completed,56.8,Average
+820,Male,20,87.0,4.7,5.16,22.0,10.0,,Yes,No,High School,High,Not Completed,59.0,Average
+90,Male,24,85.5,17.9,4.58,31.0,8.0,6.9,Yes,Yes,Master,High,Completed,66.6,Average
+337,Female,18,69.3,15.2,,18.0,4.0,4.7,Yes,No,High School,Low,Completed,48.4,Low
+860,Male,20,98.3,0.0,3.36,24.0,9.0,8.6,No,Yes,Bachelor,High,Not Completed,56.2,Average
+940,Female,21,55.1,16.4,6.41,25.0,4.0,,Yes,No,High School,Low,Completed,63.7,Average
+952,Female,20,81.4,5.4,,27.0,6.0,5.9,Yes,Yes,Master,Low,Not Completed,65.7,Average
+884,Male,24,67.7,4.7,5.27,28.0,0.0,9.5,Yes,Yes,Bachelor,Medium,Not Completed,46.9,Low
+621,Male,17,,17.7,6.48,24.0,5.0,8.8,No,Yes,High School,Medium,Completed,65.1,Average
+790,Female,18,65.5,8.0,5.98,25.0,9.0,7.2,No,No,Bachelor,Medium,Not Completed,52.0,Average
+627,Male,18,83.2,12.8,5.52,25.0,3.0,7.5,Yes,Yes,High School,Low,Completed,65.2,Average
+95,Female,20,70.3,,4.87,18.0,8.0,9.3,No,Yes,High School,Medium,Completed,62.2,Average
+12,Female,18,66.6,0.5,3.21,17.0,5.0,6.2,Yes,Yes,High School,High,Not Completed,38.1,Low
+397,Female,18,69.5,,5.94,24.0,6.0,6.5,No,Yes,PhD,Medium,Completed,68.5,Average
+546,Male,25,71.6,,3.74,25.0,,8.8,Yes,Yes,Bachelor,Medium,Completed,56.5,Average
+44,Female,24,78.0,10.8,5.77,28.0,3.0,6.5,No,Yes,Bachelor,Medium,Completed,60.7,Average
+43,Male,23,76.7,22.8,6.74,24.0,5.0,8.3,Yes,Yes,Bachelor,Low,Not Completed,66.1,Average
+168,Male,21,83.3,12.5,6.23,28.0,7.0,5.8,No,Yes,Bachelor,Low,Completed,67.0,Average
+417,Male,21,63.9,17.3,5.59,29.0,6.0,7.3,Yes,Yes,High School,Medium,Completed,63.6,Average
+877,Female,18,71.6,10.7,4.0,29.0,4.0,8.2,No,Yes,Bachelor,Medium,Not Completed,64.9,Average
+427,Male,21,72.8,0.0,2.24,22.0,5.0,,Yes,No,High School,Medium,Completed,42.5,Low
+900,Male,24,66.8,16.5,6.06,29.0,5.0,7.8,Yes,No,PhD,High,Not Completed,64.4,Average
+981,Male,23,80.5,17.0,5.83,31.0,8.0,6.5,Yes,Yes,Master,Medium,Completed,66.9,Average
+976,Male,18,100.0,12.9,6.84,27.0,6.0,6.2,No,No,Bachelor,Medium,Not Completed,63.0,Average
+688,Male,23,74.7,17.3,6.85,23.0,6.0,5.4,Yes,No,Bachelor,Medium,Not Completed,62.6,Average
+258,Female,19,85.0,10.6,3.93,38.0,6.0,6.4,No,Yes,Bachelor,Medium,Completed,57.0,Average
+336,Male,25,81.5,10.7,6.26,28.0,6.0,7.8,Yes,Yes,Bachelor,High,Not Completed,58.7,Average
+16,Male,17,86.6,12.5,5.97,24.0,2.0,4.7,Yes,Yes,High School,Low,Not Completed,58.9,Average
+645,Male,22,100.0,29.3,8.02,44.0,9.0,6.1,No,Yes,Master,Low,Completed,83.6,High
+325,Female,18,78.1,9.6,5.39,34.0,6.0,8.7,No,No,Master,Low,Completed,61.2,Average
+775,Female,19,88.1,0.0,6.34,,6.0,5.9,No,Yes,Bachelor,Medium,Not Completed,60.4,Average
+223,Male,19,,19.2,7.46,30.0,2.0,7.1,No,Yes,High School,Medium,Not Completed,70.0,Average
+180,Male,18,78.6,13.3,5.23,17.0,5.0,6.1,No,Yes,High School,Medium,Completed,64.3,Average
+661,Male,25,55.8,5.7,5.53,23.0,5.0,6.5,No,Yes,High School,High,Not Completed,41.9,Low
+522,Male,18,54.2,0.0,4.31,12.0,3.0,6.9,Yes,Yes,High School,Low,Completed,45.4,Low
+23,Male,25,64.6,24.4,6.96,26.0,5.0,7.8,No,Yes,PhD,Medium,Not Completed,66.4,Average
+357,Male,25,80.3,12.6,4.96,19.0,9.0,7.2,No,Yes,High School,Medium,Completed,54.3,Average
+962,Female,17,40.0,15.2,5.19,17.0,1.0,7.9,No,Yes,High School,Low,Not Completed,52.6,Average
+906,Female,21,92.4,13.7,,28.0,9.0,7.9,No,Yes,Bachelor,Medium,Completed,75.7,High
+341,Male,19,98.9,8.6,4.46,20.0,2.0,6.7,No,Yes,Master,Medium,Not Completed,58.4,Average
+432,Female,22,72.6,17.5,,28.0,2.0,7.1,No,Yes,Master,Low,Not Completed,60.7,Average
+774,Male,19,81.9,16.2,5.59,32.0,,8.8,Yes,Yes,Bachelor,Low,Completed,73.9,Average
+851,Male,17,75.8,16.5,6.58,32.0,6.0,5.5,Yes,Yes,Bachelor,High,Not Completed,61.4,Average
+204,Female,17,96.3,12.4,6.18,29.0,7.0,6.2,Yes,Yes,Bachelor,High,Completed,53.7,Average
+918,Female,22,65.7,26.4,6.98,33.0,5.0,7.7,No,Yes,High School,Medium,Not Completed,69.4,Average
+94,Female,20,,17.8,7.0,29.0,3.0,6.9,Yes,Yes,Bachelor,High,Not Completed,53.9,Average
+571,Male,19,60.1,15.6,3.68,25.0,2.0,6.5,No,Yes,PhD,Low,Not Completed,53.2,Average
+69,Male,17,82.2,16.7,5.63,31.0,4.0,4.0,No,Yes,Bachelor,Low,Not Completed,66.4,Average
+755,Male,20,65.9,12.5,5.48,21.0,1.0,6.9,No,Yes,High School,High,Completed,61.5,Average
+285,Female,17,72.9,13.4,4.37,32.0,10.0,7.4,Yes,No,High School,Low,Completed,70.1,Average
+928,Female,20,84.3,6.9,3.93,35.0,7.0,9.5,Yes,Yes,High School,High,Completed,62.5,Average
+435,Male,21,83.9,19.1,5.55,39.0,9.0,7.2,No,Yes,Master,High,Not Completed,69.6,Average
+154,Male,19,63.1,15.1,5.03,29.0,4.0,5.7,No,No,High School,Medium,Not Completed,59.9,Average
+76,Female,21,66.5,12.4,5.38,29.0,4.0,4.0,No,Yes,Bachelor,Medium,Not Completed,61.6,Average
+747,Male,17,75.2,20.8,5.6,34.0,5.0,6.5,No,Yes,PhD,High,Not Completed,70.8,Average
+447,Female,21,,15.1,4.9,23.0,0.0,4.1,Yes,Yes,Bachelor,High,Completed,60.9,Average
+189,Female,19,69.1,23.0,7.88,36.0,,9.4,No,No,PhD,Low,Completed,86.8,High
+272,Female,22,86.8,19.2,,41.0,5.0,5.9,Yes,No,Bachelor,Low,Not Completed,66.2,Average
+237,Male,22,96.1,11.8,4.87,34.0,,5.7,Yes,Yes,Bachelor,Medium,Completed,66.8,Average
+488,Male,23,56.4,18.9,6.98,25.0,8.0,6.7,Yes,Yes,Master,Low,Completed,70.1,Average
+118,Male,18,94.0,14.6,7.21,30.0,9.0,4.6,No,No,Master,Low,Not Completed,55.2,Average
+836,Male,22,,5.1,2.32,25.0,4.0,6.7,No,Yes,High School,High,Not Completed,51.4,Average
+513,Female,21,80.9,11.9,6.42,33.0,10.0,7.8,Yes,Yes,Bachelor,High,Not Completed,63.8,Average
+77,Female,25,73.7,8.9,5.71,17.0,1.0,8.6,Yes,Yes,High School,Medium,Not Completed,49.2,Low
+686,Female,19,99.5,20.7,6.32,38.0,8.0,9.8,No,No,Bachelor,Medium,Completed,69.9,Average
+127,Female,25,70.5,0.0,3.32,27.0,,9.1,No,No,High School,Medium,Not Completed,43.4,Low
+117,Female,19,90.7,10.5,4.58,29.0,6.0,6.7,No,Yes,Bachelor,High,Not Completed,63.5,Average
+474,Female,20,75.8,16.5,,30.0,4.0,7.6,No,Yes,Bachelor,Low,Completed,62.0,Average
+709,Male,24,73.2,13.7,4.73,22.0,8.0,6.5,No,No,High School,Medium,Not Completed,55.1,Average
+58,Male,23,70.1,21.9,6.82,28.0,1.0,8.6,Yes,Yes,High School,Medium,Not Completed,58.7,Average
+690,Male,24,74.9,,6.54,33.0,5.0,7.9,No,No,Bachelor,Medium,Not Completed,60.9,Average
+930,Male,25,74.6,,4.78,30.0,1.0,6.4,Yes,Yes,Bachelor,Medium,Completed,61.4,Average
+370,Male,20,72.6,14.3,5.28,29.0,5.0,10.0,No,Yes,Bachelor,High,Completed,65.0,Average
+269,Male,22,88.5,18.6,5.48,29.0,4.0,6.3,No,Yes,Bachelor,High,Not Completed,70.0,Average
+47,Male,22,92.6,9.3,3.9,27.0,8.0,6.0,No,Yes,High School,High,Completed,49.7,Low
+350,Female,18,74.1,5.5,3.74,20.0,3.0,7.0,No,No,High School,Medium,Not Completed,50.8,Average
+196,Male,22,70.5,1.0,3.69,17.0,7.0,7.1,Yes,Yes,Bachelor,Medium,Not Completed,49.1,Low
+320,Male,25,65.4,21.9,6.87,24.0,5.0,7.1,No,No,PhD,Medium,Not Completed,66.6,Average
+852,Female,19,60.7,20.5,6.63,31.0,3.0,8.5,No,No,High School,High,Not Completed,54.1,Average
+707,Male,20,47.1,5.4,4.7,17.0,6.0,6.7,No,Yes,High School,Low,Not Completed,51.6,Average
+753,Female,19,67.0,14.6,5.35,26.0,7.0,,No,Yes,Master,Medium,Completed,66.6,Average
+264,Male,23,58.9,11.1,4.99,30.0,5.0,7.4,Yes,Yes,Master,Medium,Completed,68.5,Average
+444,Male,18,77.7,7.5,3.72,25.0,4.0,7.6,Yes,Yes,Bachelor,Low,Completed,58.2,Average
+959,Male,19,85.3,5.6,3.39,23.0,2.0,6.5,Yes,Yes,Bachelor,Medium,Completed,49.6,Low
+305,Female,25,71.6,0.0,6.06,30.0,6.0,7.6,No,No,High School,Medium,Completed,58.8,Average
+342,Male,19,65.0,0.0,4.7,13.0,6.0,7.5,No,No,High School,Medium,Completed,44.6,Low
+614,Male,19,61.8,21.0,,,5.0,8.1,No,Yes,PhD,Low,Not Completed,61.4,Average
+987,Female,19,83.5,12.2,7.64,13.0,10.0,7.2,No,Yes,Bachelor,Low,Completed,64.8,Average
+150,Male,21,84.1,17.1,,28.0,6.0,,No,Yes,High School,Medium,Not Completed,56.5,Average
+125,Male,24,83.6,19.6,7.27,40.0,2.0,7.5,Yes,Yes,Bachelor,Medium,Completed,79.2,High
+803,Female,19,71.1,8.4,6.07,21.0,2.0,10.0,Yes,Yes,High School,High,Completed,57.0,Average
+870,Female,17,94.8,10.8,,24.0,9.0,7.3,No,No,High School,High,Completed,75.4,High
+51,Female,18,77.9,17.7,6.01,22.0,3.0,6.4,Yes,No,High School,Low,Not Completed,53.5,Average
+354,Male,22,87.8,10.2,,,7.0,7.6,No,Yes,PhD,Medium,Not Completed,65.2,Average
+946,Male,25,83.4,29.3,7.82,32.0,4.0,6.1,No,No,PhD,Medium,Not Completed,73.7,Average
+143,Male,24,88.8,13.3,5.95,25.0,4.0,7.0,Yes,No,Bachelor,High,Completed,62.8,Average
+471,Male,22,90.6,1.1,5.12,22.0,2.0,8.0,No,No,High School,High,Not Completed,51.2,Average
+400,Female,21,71.0,19.7,6.77,,4.0,6.6,No,Yes,High School,Low,Not Completed,64.2,Average
+717,Female,24,82.2,0.0,2.6,19.0,3.0,6.9,Yes,No,High School,High,Completed,48.2,Low
+321,Female,22,71.1,16.9,6.19,30.0,1.0,5.4,Yes,Yes,Master,Low,Not Completed,58.9,Average
+20,Male,23,84.1,20.5,6.0,39.0,6.0,9.0,No,Yes,High School,Medium,Completed,69.5,Average
+827,Male,23,80.2,,,30.0,5.0,5.4,No,Yes,Bachelor,Medium,Completed,62.4,Average
+807,Female,25,61.6,8.9,4.46,24.0,4.0,6.3,No,No,Bachelor,High,Completed,53.6,Average
+826,Female,19,83.5,5.3,5.53,30.0,3.0,6.9,No,No,High School,Medium,Not Completed,54.5,Average
+408,Male,18,88.6,18.3,7.17,37.0,7.0,6.6,No,Yes,High School,Low,Completed,68.3,Average
+538,Male,17,70.0,12.0,5.53,,6.0,6.9,No,Yes,PhD,Medium,Not Completed,53.3,Average
+636,Male,25,88.2,9.1,5.38,28.0,6.0,6.9,No,No,High School,Low,Completed,64.3,Average
+39,Female,21,66.1,19.9,6.1,38.0,7.0,5.8,No,Yes,Bachelor,High,Completed,62.5,Average
+176,Male,21,63.2,28.2,6.28,33.0,6.0,7.0,Yes,Yes,Master,Low,Completed,75.4,High
+246,Female,17,63.2,,6.55,23.0,3.0,8.5,Yes,Yes,Master,Medium,Completed,70.7,Average
+846,Male,21,81.6,12.7,4.09,26.0,10.0,6.5,Yes,No,Master,Medium,Not Completed,63.6,Average
+683,Male,18,,8.8,4.94,25.0,0.0,7.1,Yes,No,High School,High,Not Completed,51.7,Average
+771,Male,17,86.7,17.1,4.94,37.0,10.0,7.8,Yes,No,Bachelor,Medium,Completed,63.9,Average
+969,Female,23,77.5,15.0,6.64,27.0,7.0,,No,No,High School,Medium,Not Completed,57.6,Average
+155,Female,19,64.8,26.2,6.93,30.0,1.0,6.9,Yes,Yes,Master,Medium,Not Completed,68.3,Average
+288,Female,24,68.2,17.1,5.92,18.0,1.0,9.3,No,Yes,Bachelor,High,Completed,67.1,Average
+618,Male,18,73.2,10.1,5.13,21.0,3.0,6.8,No,Yes,Bachelor,Medium,Completed,67.3,Average
+570,Male,22,,13.8,5.28,29.0,10.0,7.1,Yes,Yes,Bachelor,Medium,Not Completed,60.9,Average
+760,Female,18,73.7,5.9,,22.0,3.0,7.9,Yes,Yes,Bachelor,High,Completed,56.4,Average
+18,Female,21,73.7,10.7,4.77,39.0,5.0,,No,No,Bachelor,Low,Completed,66.0,Average
+128,Female,20,80.2,18.4,7.04,32.0,5.0,5.2,Yes,Yes,Master,Medium,Completed,67.8,Average
+323,Female,23,95.7,17.0,5.0,28.0,4.0,7.1,No,Yes,High School,Low,Not Completed,56.2,Average
+256,Female,20,67.9,20.4,,23.0,6.0,7.5,Yes,Yes,Master,Medium,Completed,64.9,Average
+689,Female,20,78.9,5.4,,21.0,7.0,8.6,Yes,No,Bachelor,Medium,Completed,60.8,Average
+985,Female,17,89.5,19.3,6.47,25.0,5.0,7.1,No,No,Master,Low,Completed,69.6,Average
+191,Male,19,64.1,16.6,6.29,32.0,4.0,7.5,No,No,High School,Medium,Not Completed,66.5,Average
+116,Female,17,90.7,10.7,5.51,22.0,9.0,9.5,No,No,Master,High,Not Completed,62.5,Average
+632,Female,22,65.0,15.5,5.45,16.0,1.0,8.2,No,No,High School,Medium,Completed,60.6,Average
+607,Male,24,94.3,18.2,6.56,38.0,5.0,6.2,No,Yes,Bachelor,High,Completed,76.5,High
+181,Male,23,82.7,16.3,5.66,29.0,10.0,8.3,No,Yes,Master,Medium,Not Completed,66.4,Average
+302,Female,18,100.0,17.8,6.17,34.0,10.0,4.7,Yes,Yes,PhD,High,Completed,74.6,Average
+941,Male,18,63.2,13.1,5.8,28.0,7.0,6.9,No,Yes,Bachelor,Medium,Not Completed,59.2,Average
+729,Male,25,63.3,18.0,6.49,25.0,2.0,6.0,No,Yes,Master,High,Not Completed,59.3,Average
+740,Male,23,80.0,1.5,5.34,22.0,,6.8,No,Yes,Bachelor,Medium,Not Completed,53.3,Average
+974,Male,22,67.0,19.4,6.09,28.0,3.0,7.9,Yes,No,Bachelor,Low,Not Completed,63.8,Average
+788,Male,18,72.7,11.2,4.89,34.0,7.0,7.7,No,Yes,High School,Medium,Not Completed,58.7,Average
+518,Female,20,75.2,5.5,5.92,25.0,6.0,7.2,No,Yes,High School,High,Completed,61.3,Average
+412,Female,25,79.2,16.3,6.07,,5.0,6.6,Yes,Yes,Bachelor,High,Not Completed,65.8,Average
+46,Female,20,62.9,3.7,3.99,21.0,3.0,6.6,Yes,Yes,Master,Low,Not Completed,48.5,Low
+927,Male,17,94.7,17.8,6.6,29.0,6.0,,No,Yes,Bachelor,Medium,Completed,70.5,Average
+158,Female,18,,15.1,6.65,31.0,4.0,7.8,Yes,Yes,Master,Medium,Completed,81.1,High
+761,Male,19,92.4,15.5,5.05,,3.0,7.8,No,No,High School,High,Not Completed,63.5,Average
+172,Male,21,84.7,17.2,6.67,36.0,8.0,6.2,No,Yes,Bachelor,Low,Completed,84.9,High
+17,Male,23,56.6,23.8,7.04,26.0,5.0,7.1,Yes,Yes,PhD,High,Completed,81.0,High
+512,Male,25,,16.7,6.4,29.0,1.0,8.6,Yes,Yes,High School,Low,Not Completed,43.0,Low
+49,Female,18,74.2,9.4,4.07,20.0,5.0,6.5,No,Yes,Bachelor,High,Not Completed,51.2,Average
+992,Female,25,78.8,7.0,6.79,27.0,6.0,8.2,No,Yes,Master,Medium,Completed,72.4,Average
+858,Male,20,77.1,11.1,5.71,23.0,3.0,5.2,Yes,Yes,High School,Medium,Completed,53.8,Average
+516,Male,18,69.0,18.5,4.12,26.0,4.0,8.0,No,No,Bachelor,High,Completed,59.3,Average
+912,Male,19,66.5,16.1,6.33,28.0,3.0,9.3,No,No,PhD,High,Completed,61.3,Average
+481,Female,23,,18.2,6.14,37.0,6.0,5.2,No,Yes,Bachelor,Low,Not Completed,66.8,Average
+284,Male,25,70.0,19.3,7.13,28.0,4.0,8.0,No,Yes,Master,Low,Not Completed,59.9,Average
+735,Male,19,72.4,8.6,3.23,27.0,3.0,7.5,No,Yes,Bachelor,Low,Not Completed,42.9,Low
+670,Male,21,81.3,16.0,5.21,22.0,5.0,6.8,Yes,No,Bachelor,Medium,Not Completed,58.3,Average
+226,Male,23,,12.8,6.21,24.0,2.0,5.7,No,Yes,High School,High,Not Completed,51.1,Average
+27,Male,23,73.4,14.2,5.16,23.0,6.0,5.9,No,Yes,Master,Medium,Not Completed,57.3,Average
+799,Female,18,55.3,,7.43,32.0,5.0,8.8,Yes,Yes,Bachelor,Low,Completed,78.8,High
+438,Female,17,68.6,11.6,5.34,32.0,8.0,6.4,Yes,Yes,High School,Medium,Completed,59.9,Average
+970,Male,23,89.2,1.8,5.2,32.0,5.0,6.8,Yes,Yes,High School,High,Not Completed,46.3,Low
+365,Female,21,81.9,22.0,6.7,34.0,2.0,6.1,No,Yes,Master,Medium,Completed,72.3,Average
+230,Female,22,60.7,6.8,4.6,17.0,1.0,6.4,Yes,Yes,Master,Low,Not Completed,38.8,Low
+38,Male,19,57.6,,5.86,30.0,3.0,7.4,Yes,No,Bachelor,High,Completed,60.3,Average
+986,Male,24,80.4,13.1,6.46,25.0,5.0,6.7,Yes,No,Bachelor,Medium,Not Completed,57.4,Average
+375,Male,25,78.7,7.7,3.88,22.0,4.0,7.9,No,No,Bachelor,High,Not Completed,55.0,Average
+470,Female,23,92.4,23.7,8.3,26.0,0.0,7.0,No,No,High School,Medium,Not Completed,68.7,Average
+988,Male,22,77.2,9.5,5.67,23.0,7.0,5.8,Yes,Yes,High School,High,Not Completed,56.4,Average
+868,Male,17,65.7,6.6,6.61,16.0,2.0,6.7,Yes,Yes,Master,Medium,Not Completed,58.6,Average
+909,Male,20,88.4,9.8,4.43,33.0,3.0,5.9,Yes,No,PhD,Low,Not Completed,54.3,Average
+742,Male,19,73.2,10.2,4.6,20.0,0.0,6.5,Yes,No,Master,Low,Completed,57.4,Average
+195,Male,21,64.5,14.7,6.71,27.0,5.0,8.0,No,No,Bachelor,Medium,Completed,67.9,Average
+935,Male,21,40.0,18.3,6.03,20.0,8.0,7.1,No,Yes,High School,Low,Not Completed,52.3,Average
+882,Female,24,,17.8,6.87,33.0,4.0,5.3,No,Yes,High School,High,Completed,71.5,Average
+504,Female,25,78.4,10.7,3.77,26.0,8.0,5.3,No,Yes,High School,Medium,Completed,59.5,Average
+990,Female,23,75.4,18.3,6.87,32.0,7.0,7.2,No,Yes,High School,Low,Not Completed,65.4,Average
+848,Female,18,79.3,20.8,5.72,,5.0,7.6,No,No,Bachelor,High,Not Completed,56.5,Average
+580,Male,18,78.6,16.8,6.17,35.0,5.0,6.5,Yes,Yes,Bachelor,Low,Completed,71.0,Average
+989,Male,19,84.0,,5.44,29.0,10.0,7.1,No,Yes,Bachelor,Medium,Completed,66.6,Average
+163,Female,19,56.6,2.6,4.57,15.0,4.0,6.2,No,Yes,High School,Low,Not Completed,37.3,Low
+718,Female,23,87.6,11.0,5.45,28.0,8.0,8.4,No,No,High School,Low,Completed,67.7,Average
+153,Male,24,,4.8,6.95,24.0,7.0,7.0,No,Yes,Bachelor,Low,Completed,73.5,Average
+697,Male,23,83.0,18.2,6.44,27.0,10.0,7.8,No,Yes,High School,Medium,Completed,71.8,Average
+716,Female,18,61.4,9.1,6.69,27.0,2.0,6.2,Yes,No,Bachelor,Low,Not Completed,46.7,Low
+929,Female,20,69.6,9.5,4.3,19.0,7.0,7.0,No,Yes,High School,High,Completed,61.3,Average
+112,Male,17,76.0,8.5,5.36,20.0,10.0,5.9,No,Yes,High School,High,Completed,59.1,Average
+227,Female,20,61.2,7.1,5.44,26.0,4.0,6.1,No,No,Bachelor,Medium,Completed,57.3,Average
+704,Male,24,80.7,17.7,5.17,37.0,8.0,7.7,Yes,Yes,Bachelor,Medium,Not Completed,75.4,High
+104,Male,17,66.0,14.9,7.3,11.0,4.0,7.4,No,Yes,High School,Medium,Not Completed,62.2,Average
+422,Female,23,68.6,12.2,7.19,20.0,7.0,7.0,No,No,Master,Medium,Not Completed,54.6,Average
+420,Female,24,72.4,6.3,5.6,20.0,3.0,6.1,No,Yes,High School,Medium,Completed,54.5,Average
+849,Male,21,100.0,27.0,8.38,32.0,7.0,8.6,No,Yes,PhD,High,Not Completed,78.7,High
+587,Male,24,,13.5,6.79,28.0,5.0,7.9,No,Yes,High School,High,Completed,61.5,Average
+797,Female,25,81.7,12.9,5.09,20.0,4.0,5.6,No,Yes,High School,High,Not Completed,67.5,Average
+673,Male,22,60.1,21.6,5.28,26.0,2.0,7.5,No,Yes,High School,Low,Not Completed,57.4,Average
+120,Female,17,80.5,14.6,5.79,33.0,3.0,7.0,No,Yes,Bachelor,Low,Not Completed,57.4,Average
+54,Female,18,83.9,,4.5,22.0,4.0,4.7,Yes,Yes,Master,Medium,Not Completed,59.7,Average
+152,Male,18,88.3,20.1,5.77,31.0,10.0,10.0,No,Yes,Bachelor,High,Not Completed,61.3,Average
+404,Female,24,59.6,16.1,7.32,29.0,6.0,9.1,No,No,Bachelor,Medium,Completed,60.1,Average
+964,Male,18,91.5,,7.98,32.0,9.0,9.4,Yes,Yes,PhD,High,Completed,89.2,High
+208,Female,24,78.6,,5.96,30.0,6.0,7.9,Yes,Yes,Bachelor,Low,Not Completed,63.8,Average
+659,Female,20,85.3,5.9,4.62,30.0,10.0,8.9,Yes,Yes,Bachelor,Medium,Completed,65.2,Average
+884,Male,24,67.7,4.7,5.27,28.0,0.0,9.5,Yes,Yes,Bachelor,Medium,Not Completed,46.9,Low
+779,Female,21,65.7,0.0,4.19,22.0,2.0,9.4,No,Yes,Master,Low,Not Completed,45.1,Low
+9,Female,22,89.4,16.8,5.31,30.0,10.0,7.4,No,Yes,Bachelor,Medium,Not Completed,73.2,Average
+825,Female,20,96.7,1.9,2.98,26.0,5.0,8.6,No,Yes,High School,High,Not Completed,43.2,Low
+37,Male,18,85.4,11.8,4.62,23.0,7.0,4.2,No,Yes,Bachelor,High,Not Completed,62.3,Average
+453,Male,21,68.0,19.1,5.7,29.0,8.0,6.9,No,Yes,High School,Medium,Not Completed,59.3,Average
+652,Female,20,58.6,13.2,5.17,,0.0,7.0,No,No,Master,High,Completed,50.0,Average
+254,Male,24,80.7,18.2,6.27,27.0,2.0,7.8,No,Yes,High School,Medium,Not Completed,61.0,Average
+304,Female,17,62.7,16.9,6.7,25.0,7.0,9.4,No,Yes,Bachelor,Medium,Not Completed,60.1,Average
+763,Male,20,,1.5,4.33,18.0,6.0,7.3,No,Yes,Bachelor,High,Not Completed,42.2,Low
+572,Female,18,71.6,23.3,8.0,28.0,3.0,7.0,Yes,Yes,Master,Low,Completed,77.9,High
+624,Male,21,76.2,11.8,5.89,30.0,3.0,8.7,Yes,No,Bachelor,High,Completed,61.0,Average
+859,Female,18,83.1,,,29.0,4.0,7.7,No,Yes,Master,Medium,Completed,68.9,Average
+759,Female,18,72.6,18.2,6.09,31.0,6.0,6.8,Yes,Yes,Bachelor,Medium,Not Completed,61.0,Average
+263,Male,25,91.8,17.8,5.61,29.0,6.0,7.3,Yes,No,Master,Medium,Not Completed,58.4,Average
+611,Male,20,74.1,23.8,6.17,39.0,7.0,6.7,No,Yes,Master,Low,Completed,81.6,High
+298,Male,17,76.6,16.3,,22.0,4.0,6.4,No,No,Master,Medium,Not Completed,70.6,Average
+415,Female,19,90.4,19.5,6.54,27.0,5.0,8.5,No,Yes,PhD,Low,Not Completed,68.2,Average
+151,Female,17,88.4,15.0,,28.0,,6.8,No,Yes,Master,Low,Not Completed,69.0,Average
+862,Male,24,89.1,19.7,4.61,31.0,6.0,8.6,No,Yes,Bachelor,High,Completed,68.9,Average
+641,Male,23,75.4,15.5,6.62,34.0,9.0,6.7,No,Yes,Bachelor,Low,Not Completed,73.3,Average
+907,Female,24,81.8,14.3,5.98,28.0,9.0,7.1,No,Yes,High School,Medium,Not Completed,65.4,Average
+551,Female,22,51.3,7.7,4.21,21.0,5.0,6.0,No,No,Bachelor,Medium,Not Completed,42.5,Low
+808,Female,19,72.6,17.8,,25.0,1.0,7.5,No,Yes,High School,Medium,Not Completed,57.5,Average
+489,Female,23,74.8,6.6,3.99,18.0,,5.2,Yes,Yes,Bachelor,Low,Completed,48.6,Low
+711,Female,25,59.5,2.9,4.73,20.0,5.0,7.1,Yes,Yes,Bachelor,Low,Completed,41.3,Low
+148,Male,22,88.7,1.2,3.19,27.0,9.0,4.9,No,Yes,High School,High,Not Completed,44.5,Low
+147,Female,18,,13.9,5.33,29.0,4.0,5.7,No,No,High School,Medium,Not Completed,50.7,Average
+737,Male,23,79.9,20.6,8.74,31.0,5.0,9.0,No,Yes,High School,Low,Completed,62.7,Average
+950,Female,18,,8.6,5.39,19.0,0.0,6.3,No,Yes,Bachelor,Medium,Completed,51.4,Average
+756,Female,25,77.9,17.8,6.25,33.0,5.0,6.7,Yes,Yes,Bachelor,Low,Not Completed,68.7,Average
+660,Female,19,65.1,11.7,5.5,23.0,,7.3,Yes,Yes,High School,Medium,Completed,59.5,Average
+349,Male,19,67.7,20.2,6.55,18.0,2.0,6.5,No,Yes,High School,Medium,Completed,72.6,Average
+464,Female,25,94.1,11.2,7.4,32.0,,5.7,Yes,Yes,Master,Medium,Not Completed,62.4,Average
+326,Female,24,,6.2,5.36,29.0,3.0,,No,Yes,High School,Low,Not Completed,60.8,Average
+187,Female,18,94.2,11.4,4.12,34.0,4.0,6.3,No,Yes,High School,High,Completed,59.3,Average
+124,Male,22,52.4,9.0,4.78,21.0,4.0,7.4,No,Yes,High School,Medium,Not Completed,57.5,Average
+871,Male,24,64.8,12.5,5.56,,8.0,5.3,No,Yes,High School,Low,Completed,66.5,Average
+609,Male,17,,15.6,5.19,24.0,4.0,7.6,No,Yes,PhD,Low,Not Completed,64.1,Average
+144,Male,22,93.4,20.4,6.95,19.0,2.0,7.7,No,Yes,PhD,Low,Completed,76.0,High
+979,Male,18,66.1,16.4,7.15,26.0,7.0,5.7,No,No,High School,Medium,Not Completed,65.3,Average
+198,Female,20,79.8,18.6,6.9,24.0,7.0,6.0,No,Yes,Bachelor,Low,Not Completed,64.0,Average
+610,Female,21,70.3,9.5,,36.0,6.0,,No,No,Bachelor,Medium,Completed,56.2,Average
+280,Female,21,70.9,12.3,5.84,25.0,2.0,7.2,No,Yes,High School,Medium,Not Completed,65.3,Average
+294,Male,25,95.4,24.6,5.88,33.0,10.0,7.9,No,Yes,High School,Low,Not Completed,73.9,Average
+401,Male,22,72.6,20.8,6.3,23.0,5.0,5.5,Yes,Yes,Bachelor,Low,Not Completed,66.1,Average
+123,Male,19,56.6,2.7,2.86,18.0,0.0,7.9,No,Yes,PhD,Medium,Not Completed,38.0,Low
+184,Female,25,73.8,21.2,5.74,34.0,0.0,,No,Yes,Master,Low,Not Completed,58.6,Average
+203,Male,22,64.0,0.0,3.67,25.0,4.0,8.7,Yes,Yes,High School,Medium,Not Completed,50.9,Average
+439,Female,17,86.6,5.9,4.85,21.0,10.0,9.1,Yes,Yes,Bachelor,Low,Not Completed,58.0,Average
+247,Male,25,88.5,12.9,5.46,21.0,8.0,7.4,No,Yes,High School,Medium,Not Completed,67.7,Average
+416,Male,21,83.0,9.5,5.53,21.0,2.0,7.6,No,Yes,Bachelor,Medium,Not Completed,45.4,Low
+793,Male,19,75.5,11.5,4.98,27.0,5.0,6.4,No,Yes,High School,High,Not Completed,51.4,Average
+782,Female,21,58.7,13.9,4.95,21.0,0.0,7.6,Yes,No,Bachelor,Low,Completed,54.2,Average
+924,Female,18,75.3,11.7,5.6,26.0,5.0,9.7,No,Yes,High School,Medium,Completed,56.0,Average
+785,Male,25,58.3,20.2,4.75,31.0,5.0,5.6,No,No,Master,Medium,Not Completed,55.1,Average
+905,Male,20,78.1,21.3,7.99,31.0,6.0,5.8,Yes,Yes,Bachelor,Low,Not Completed,64.5,Average
+130,Male,18,85.1,6.5,4.4,32.0,3.0,7.1,Yes,No,Bachelor,High,Not Completed,51.2,Average
+638,Male,25,80.5,16.8,7.62,23.0,5.0,5.9,No,Yes,PhD,High,Not Completed,68.3,Average
+403,Male,22,66.4,17.1,6.0,20.0,0.0,6.9,No,No,High School,Medium,Not Completed,58.8,Average
+801,Female,25,,5.5,4.98,19.0,1.0,10.0,No,Yes,Bachelor,High,Completed,44.1,Low
+787,Female,20,63.3,13.8,5.48,38.0,3.0,4.0,No,Yes,Bachelor,Low,Not Completed,48.8,Low
+736,Female,20,48.4,20.9,6.32,29.0,6.0,9.1,Yes,Yes,PhD,Low,Completed,64.4,Average
+931,Male,25,75.2,6.2,4.02,21.0,7.0,6.8,No,Yes,PhD,Medium,Not Completed,57.1,Average
+220,Female,18,45.1,14.4,6.17,18.0,7.0,6.2,No,Yes,PhD,Medium,Not Completed,53.1,Average
+642,Male,21,54.4,17.1,6.46,34.0,5.0,7.4,Yes,Yes,Master,High,Not Completed,63.0,Average
+933,Female,23,63.6,17.4,6.0,28.0,6.0,8.5,Yes,Yes,Bachelor,High,Not Completed,64.9,Average
+853,Male,17,76.8,14.7,4.44,31.0,0.0,6.6,No,Yes,High School,High,Completed,67.0,Average
+824,Male,21,87.0,12.9,6.42,21.0,5.0,6.3,Yes,Yes,Bachelor,Medium,Completed,62.0,Average
+938,Female,18,82.6,11.2,4.73,33.0,9.0,8.2,No,Yes,High School,Medium,Completed,56.6,Average
+625,Female,17,73.1,16.1,5.69,35.0,8.0,8.2,No,No,Bachelor,High,Not Completed,66.6,Average
+856,Male,23,77.5,16.4,6.18,21.0,3.0,7.2,No,Yes,Master,Low,Not Completed,69.1,Average
+951,Female,22,52.8,11.9,7.48,15.0,3.0,4.8,No,Yes,Bachelor,Medium,Completed,60.9,Average
+387,Male,22,80.2,5.7,3.88,22.0,4.0,6.3,Yes,Yes,Master,High,Not Completed,60.2,Average
+993,Male,21,68.1,16.5,6.21,16.0,5.0,5.9,Yes,Yes,High School,High,Completed,52.9,Average
+510,Female,25,91.0,7.1,5.71,38.0,7.0,7.8,No,Yes,Bachelor,Medium,Not Completed,57.3,Average
+268,Female,25,93.6,10.1,5.88,24.0,6.0,8.5,Yes,Yes,High School,Low,Not Completed,64.8,Average
+837,Female,22,79.0,13.6,7.04,36.0,3.0,7.9,Yes,No,High School,Low,Completed,64.5,Average
+442,Female,22,54.0,6.4,5.01,17.0,3.0,6.4,Yes,Yes,High School,Medium,Completed,47.5,Low
+497,Female,25,74.7,21.7,6.93,34.0,6.0,8.4,No,Yes,Bachelor,Low,Not Completed,73.7,Average
+113,Female,25,,14.1,6.59,18.0,4.0,7.1,Yes,Yes,PhD,Low,Not Completed,65.7,Average
+692,Male,20,89.9,17.3,5.04,34.0,10.0,7.7,Yes,No,Master,High,Not Completed,69.7,Average
+233,Female,24,,9.2,4.94,20.0,1.0,7.5,No,Yes,PhD,Low,Completed,55.1,Average
+887,Female,23,93.4,11.7,5.11,31.0,10.0,7.1,No,No,High School,High,Not Completed,56.9,Average
+608,Male,24,79.0,16.5,5.66,25.0,4.0,5.9,No,Yes,Master,High,Not Completed,63.2,Average
+672,Female,24,82.0,17.5,5.01,32.0,2.0,7.7,Yes,Yes,Master,High,Completed,72.1,Average
+374,Female,19,58.3,8.4,4.87,22.0,2.0,8.8,Yes,No,Bachelor,Low,Not Completed,54.5,Average
+738,Female,20,89.7,10.5,5.13,31.0,3.0,4.7,Yes,Yes,Bachelor,High,Completed,56.5,Average
+860,Male,20,98.3,0.0,3.36,24.0,9.0,8.6,No,Yes,Bachelor,High,Not Completed,56.2,Average
+234,Male,21,87.7,3.4,5.29,,8.0,4.0,No,Yes,Bachelor,Medium,Not Completed,63.3,Average
+802,Male,23,57.3,14.4,5.07,29.0,3.0,5.9,Yes,Yes,Bachelor,Medium,Completed,58.9,Average
+677,Male,22,92.1,6.8,4.84,28.0,5.0,7.9,No,Yes,High School,Medium,Not Completed,58.9,Average
+318,Male,19,76.7,18.5,,29.0,7.0,8.0,No,Yes,Master,Medium,Completed,77.7,High
+649,Female,23,86.9,21.0,6.28,17.0,,6.8,No,No,Master,Medium,Not Completed,73.0,Average
+411,Male,17,70.7,,5.3,19.0,3.0,6.3,No,Yes,Master,Medium,Completed,59.9,Average
+916,Male,22,73.4,17.4,6.21,37.0,10.0,6.6,No,Yes,PhD,High,Completed,77.1,High
+710,Female,17,71.1,13.7,5.16,31.0,5.0,8.2,Yes,Yes,High School,Medium,Completed,57.8,Average
+359,Female,19,85.6,2.3,3.74,23.0,4.0,7.0,Yes,Yes,Bachelor,High,Completed,64.4,Average
+259,Female,21,91.0,17.1,5.71,34.0,9.0,10.0,Yes,Yes,Bachelor,High,Completed,71.9,Average
+745,Male,21,67.4,22.9,6.21,24.0,0.0,6.3,Yes,Yes,Master,Low,Not Completed,64.5,Average
+628,Female,17,72.3,10.2,5.77,26.0,3.0,8.0,No,Yes,Bachelor,Medium,Completed,59.5,Average
+633,Male,21,70.3,15.5,5.66,21.0,4.0,6.1,No,No,High School,Low,Completed,59.9,Average
+283,Male,22,64.9,14.4,5.37,23.0,0.0,8.6,Yes,Yes,High School,Low,Completed,54.8,Average
+377,Female,21,70.3,15.9,6.24,25.0,0.0,8.5,No,Yes,Bachelor,Medium,Not Completed,63.8,Average
+385,Female,19,93.1,10.1,4.76,21.0,3.0,5.9,Yes,Yes,PhD,High,Completed,57.2,Average
+225,Male,23,92.1,6.7,4.9,29.0,4.0,6.0,No,Yes,Bachelor,Low,Completed,61.3,Average
+974,Male,22,67.0,19.4,6.09,28.0,3.0,7.9,Yes,No,Bachelor,Low,Not Completed,63.8,Average
+966,Male,21,69.3,8.9,3.76,26.0,3.0,5.3,No,Yes,Bachelor,Low,Not Completed,49.3,Low
+473,Male,23,91.5,14.2,5.48,22.0,6.0,8.3,Yes,Yes,High School,Medium,Not Completed,62.1,Average
+348,Male,23,73.6,0.0,3.06,21.0,5.0,6.7,No,Yes,High School,High,Completed,55.6,Average
+506,Male,18,72.3,22.9,7.02,35.0,3.0,7.0,No,Yes,High School,High,Completed,72.0,Average
+640,Male,19,59.2,20.6,5.75,37.0,8.0,5.4,No,Yes,PhD,Medium,Completed,71.4,Average
+514,Female,25,59.5,19.2,5.82,28.0,5.0,6.0,No,Yes,High School,Medium,Not Completed,43.8,Low
+798,Female,18,87.0,9.9,4.93,26.0,3.0,7.9,No,Yes,Bachelor,Medium,Completed,58.9,Average
+947,Male,25,73.8,17.9,6.12,,8.0,,No,Yes,PhD,High,Completed,69.3,Average
+923,Female,25,47.2,9.1,5.83,16.0,2.0,6.2,Yes,Yes,Bachelor,Low,Completed,53.7,Average
+620,Female,20,82.1,16.5,,32.0,4.0,6.3,No,No,Master,Low,Not Completed,61.6,Average
+873,Female,25,,23.5,7.33,23.0,1.0,7.5,Yes,Yes,Bachelor,Medium,Completed,65.6,Average
+821,Female,22,62.4,11.6,4.33,20.0,2.0,5.6,No,No,Master,Low,Not Completed,39.5,Low
+646,Female,23,99.7,22.1,6.55,33.0,6.0,8.4,Yes,Yes,Master,Low,Completed,87.0,High
+864,Male,25,79.7,15.3,6.27,18.0,7.0,8.0,No,Yes,High School,Medium,Completed,68.0,Average
+557,Male,20,61.5,18.6,5.68,27.0,3.0,5.1,No,Yes,High School,High,Not Completed,55.0,Average
+978,Male,20,79.7,13.9,,24.0,3.0,7.1,No,Yes,Master,Medium,Not Completed,61.4,Average
+578,Female,20,69.8,10.6,6.08,21.0,5.0,5.7,Yes,Yes,High School,Medium,Not Completed,50.8,Average
+796,Female,18,94.8,11.8,4.92,29.0,4.0,8.0,No,No,High School,Medium,Not Completed,56.8,Average
+86,Male,21,73.3,14.1,8.1,25.0,3.0,6.1,Yes,No,PhD,Low,Completed,66.8,Average
+243,Female,22,75.7,10.5,4.79,26.0,8.0,5.7,No,Yes,Bachelor,High,Not Completed,66.8,Average
+699,Male,24,84.0,12.1,7.02,25.0,6.0,8.1,No,Yes,High School,Low,Completed,62.3,Average
+160,Female,17,47.7,20.1,6.92,27.0,3.0,9.0,No,No,High School,Low,Not Completed,54.8,Average
+525,Female,23,68.3,11.3,5.74,26.0,4.0,5.1,No,Yes,Bachelor,High,Completed,53.4,Average
+36,Female,19,86.9,20.1,6.55,24.0,4.0,6.8,No,Yes,High School,High,Completed,77.7,High
+541,Female,19,72.9,21.7,7.54,16.0,2.0,6.0,No,Yes,Bachelor,Medium,Completed,60.0,Average
+171,Female,23,52.0,8.5,5.66,22.0,7.0,6.0,No,Yes,High School,Low,Not Completed,53.4,Average
+655,Male,20,86.0,13.3,3.9,24.0,4.0,,Yes,Yes,High School,High,Not Completed,59.5,Average
+908,Male,20,59.4,0.0,4.39,24.0,0.0,4.9,Yes,Yes,Bachelor,Low,Not Completed,40.0,Low
+875,Male,18,81.5,7.6,4.47,22.0,1.0,8.3,No,No,High School,Medium,Completed,52.7,Average
+865,Male,20,87.0,17.0,7.11,26.0,9.0,4.3,Yes,Yes,PhD,Low,Completed,67.2,Average
+963,Male,25,65.3,16.3,,25.0,9.0,6.6,No,Yes,High School,Medium,Not Completed,59.1,Average
+734,Female,17,86.2,7.4,5.03,24.0,5.0,6.3,No,No,PhD,High,Completed,57.0,Average
+96,Male,24,81.9,10.5,5.19,20.0,5.0,6.9,Yes,Yes,High School,High,Not Completed,64.2,Average
+564,Male,21,78.2,0.0,4.57,25.0,4.0,6.5,Yes,Yes,High School,Medium,Completed,53.3,Average
+241,Female,19,100.0,15.0,5.23,25.0,3.0,7.3,No,Yes,High School,High,Not Completed,58.8,Average
+743,Female,22,59.8,13.8,,27.0,1.0,7.1,Yes,Yes,High School,Medium,Not Completed,51.6,Average
+575,Female,20,,4.6,4.09,29.0,7.0,4.8,Yes,Yes,Bachelor,Low,Not Completed,50.4,Average
+691,Male,22,65.2,16.0,5.21,19.0,6.0,5.8,No,Yes,High School,Medium,Completed,69.5,Average
+461,Male,18,70.8,16.0,7.05,24.0,9.0,7.1,No,Yes,Bachelor,Low,Not Completed,68.2,Average
+554,Female,21,68.6,22.6,6.75,25.0,0.0,8.0,No,Yes,Master,High,Not Completed,60.2,Average
+896,Male,25,49.3,18.7,7.32,20.0,4.0,6.5,No,No,High School,Low,Not Completed,50.0,Average
+207,Male,22,81.0,12.6,4.95,36.0,3.0,6.9,No,No,Bachelor,High,Completed,68.9,Average
+393,Male,19,82.1,9.5,3.61,22.0,3.0,9.5,Yes,Yes,Bachelor,High,Not Completed,54.8,Average
+795,Male,19,78.8,13.1,5.11,,8.0,8.0,No,No,High School,Medium,Not Completed,58.4,Average
+398,Male,23,77.4,14.3,5.89,23.0,4.0,7.7,No,Yes,High School,High,Completed,65.6,Average
+767,Female,25,63.4,23.1,5.91,30.0,3.0,6.7,No,No,Master,Medium,Completed,71.6,Average
+866,Female,22,56.0,19.4,5.16,23.0,3.0,9.9,Yes,No,High School,Low,Completed,51.8,Average
+218,Female,23,,20.6,7.3,24.0,4.0,7.0,No,No,PhD,Low,Completed,74.8,Average
+5,Male,17,81.3,10.8,5.38,27.0,2.0,8.0,No,Yes,Bachelor,Low,Completed,55.6,Average
+769,Male,17,67.6,7.2,5.19,25.0,3.0,6.9,No,No,High School,Medium,Not Completed,56.8,Average
+643,Male,18,87.2,12.5,5.88,28.0,1.0,8.6,Yes,No,High School,Medium,Not Completed,52.1,Average
+915,Female,21,78.6,11.7,4.82,28.0,,7.3,Yes,Yes,Bachelor,Low,Completed,66.5,Average
+613,Female,24,87.2,6.8,4.4,28.0,6.0,8.2,No,Yes,Bachelor,High,Not Completed,63.3,Average
+739,Male,18,68.1,17.5,7.07,26.0,6.0,7.7,Yes,No,Bachelor,High,Completed,58.8,Average
+547,Male,19,86.3,12.9,5.92,35.0,2.0,5.4,Yes,No,Bachelor,Low,Not Completed,57.6,Average
+726,Female,23,74.5,0.3,,24.0,9.0,6.6,Yes,Yes,High School,Low,Completed,57.4,Average
+684,Female,22,56.4,14.8,5.02,24.0,0.0,7.2,No,Yes,Bachelor,High,Not Completed,52.3,Average
+99,Male,21,63.7,3.7,4.71,11.0,2.0,6.4,No,Yes,Bachelor,Medium,Not Completed,47.4,Low
+805,Male,19,86.4,9.0,3.83,34.0,7.0,6.3,No,No,PhD,Medium,Completed,69.8,Average
+728,Female,18,67.8,16.4,5.53,33.0,,4.8,No,No,High School,High,Not Completed,56.3,Average
+574,Female,21,61.6,22.7,5.44,27.0,9.0,6.3,No,Yes,Bachelor,Medium,Completed,71.8,Average
+407,Male,20,88.8,3.6,4.06,31.0,5.0,9.3,Yes,Yes,High School,Medium,Not Completed,58.0,Average
+503,Male,21,64.8,8.5,4.28,27.0,5.0,6.1,Yes,Yes,Bachelor,High,Completed,59.5,Average
+48,Female,25,94.9,8.8,5.75,32.0,5.0,7.8,No,Yes,Master,Medium,Completed,62.5,Average
+33,Male,23,71.2,12.6,5.9,22.0,3.0,7.8,No,Yes,Bachelor,High,Not Completed,52.1,Average
+780,Female,18,80.9,27.3,7.04,30.0,4.0,6.6,No,No,High School,Medium,Not Completed,70.4,Average
+840,Female,24,77.6,21.0,,27.0,9.0,7.7,Yes,No,Bachelor,Medium,Not Completed,61.4,Average
+201,Female,20,85.6,6.8,3.89,27.0,6.0,8.1,Yes,Yes,Master,Medium,Completed,63.4,Average
+135,Female,19,62.7,16.0,6.93,20.0,4.0,7.3,No,No,Bachelor,Low,Not Completed,55.0,Average
+28,Male,18,87.0,13.4,5.73,33.0,4.0,5.3,Yes,No,Bachelor,High,Not Completed,58.5,Average
+948,Female,24,70.9,14.4,6.57,30.0,5.0,8.2,No,Yes,High School,Low,Not Completed,54.5,Average
+231,Female,19,74.6,9.2,,30.0,8.0,6.5,Yes,No,Master,Low,Completed,55.4,Average
+490,Female,18,65.9,25.3,7.14,30.0,8.0,5.6,Yes,Yes,Master,Medium,Not Completed,65.5,Average
+773,Male,20,91.3,19.0,6.95,36.0,10.0,8.9,No,Yes,High School,Low,Not Completed,60.0,Average
+379,Female,20,69.3,9.0,4.77,24.0,4.0,6.5,No,Yes,High School,Medium,Not Completed,54.0,Average
+289,Male,22,66.2,14.8,5.81,16.0,7.0,6.1,No,Yes,Bachelor,High,Not Completed,54.4,Average
+419,Female,24,71.1,14.4,5.47,31.0,5.0,6.7,No,Yes,High School,Medium,Completed,62.2,Average
+675,Male,18,,13.8,5.42,21.0,2.0,8.7,No,Yes,Bachelor,Medium,Completed,53.1,Average
+392,Male,17,84.3,20.0,5.9,33.0,7.0,5.6,Yes,Yes,Bachelor,Low,Not Completed,64.2,Average
+593,Male,22,86.3,21.3,6.27,22.0,,8.1,No,No,PhD,Low,Completed,70.8,Average
+499,Female,17,68.4,11.4,5.42,13.0,5.0,5.7,Yes,Yes,Master,Low,Not Completed,50.8,Average
+139,Male,24,89.2,10.5,5.4,31.0,8.0,9.8,No,Yes,High School,Medium,Not Completed,64.8,Average
+63,Female,24,75.5,12.3,,29.0,3.0,6.5,No,Yes,Bachelor,Medium,Completed,64.5,Average
+472,Female,20,,9.4,5.02,24.0,4.0,8.6,Yes,Yes,Bachelor,Low,Completed,48.5,Low
+648,Female,17,73.7,,4.06,27.0,7.0,5.5,Yes,No,High School,Medium,Completed,60.3,Average
+129,Male,21,74.2,13.5,5.42,24.0,4.0,7.2,No,Yes,High School,Low,Not Completed,61.1,Average
+997,Female,21,65.7,12.9,,26.0,9.0,7.0,No,No,Bachelor,High,Completed,64.9,Average
+521,Female,22,100.0,16.3,5.43,18.0,10.0,6.1,No,Yes,Bachelor,Medium,Completed,70.0,Average
+839,Female,23,55.0,8.9,5.52,22.0,0.0,7.4,Yes,Yes,High School,Low,Not Completed,50.6,Average
+983,Male,22,59.8,7.7,5.24,21.0,5.0,,Yes,Yes,Master,Low,Not Completed,45.2,Low
+65,Male,25,91.4,16.7,6.47,32.0,9.0,6.2,Yes,Yes,PhD,High,Not Completed,79.6,High
+813,Male,23,74.2,15.8,4.79,24.0,6.0,7.2,No,Yes,High School,Medium,Completed,75.5,High
+15,Male,23,74.3,20.2,6.51,24.0,4.0,7.2,No,Yes,Master,Medium,Not Completed,78.3,High
+157,Female,24,84.4,13.7,,32.0,8.0,7.2,No,Yes,High School,Medium,Not Completed,56.9,Average
+41,Male,23,71.4,22.4,6.77,36.0,6.0,8.6,Yes,No,Bachelor,Medium,Not Completed,65.7,Average
+493,Male,24,83.5,21.8,6.75,25.0,6.0,7.4,No,Yes,PhD,Low,Not Completed,69.5,Average
+380,Male,18,59.9,10.0,5.34,33.0,7.0,,No,Yes,Bachelor,Medium,Not Completed,60.7,Average
+188,Female,24,89.2,7.7,6.58,23.0,5.0,9.9,No,Yes,Bachelor,Low,Completed,57.5,Average
+764,Female,18,67.2,12.6,5.24,23.0,2.0,6.0,No,Yes,High School,Low,Not Completed,55.2,Average
+217,Male,19,67.5,24.1,6.53,38.0,8.0,8.0,Yes,Yes,Master,Medium,Completed,83.3,High
+792,Female,19,69.4,6.9,3.43,21.0,6.0,6.2,No,Yes,Master,Low,Not Completed,53.3,Average
+53,Female,19,70.3,16.8,6.65,24.0,9.0,8.6,No,Yes,Master,Low,Not Completed,65.0,Average
+879,Male,21,78.2,14.4,5.91,25.0,2.0,5.3,No,No,Bachelor,Low,Completed,64.3,Average
+338,Female,22,99.6,18.3,7.18,31.0,7.0,8.4,No,Yes,Bachelor,Medium,Not Completed,72.5,Average
+749,Female,18,67.2,16.1,6.04,33.0,10.0,7.7,No,Yes,PhD,Low,Completed,64.0,Average
+720,Female,21,75.1,9.6,3.19,,4.0,6.0,No,Yes,High School,High,Completed,57.5,Average
+725,Female,17,73.0,14.9,8.34,40.0,9.0,5.4,Yes,Yes,High School,Medium,Not Completed,72.7,Average
+296,Female,22,77.1,17.2,5.91,10.0,0.0,6.4,No,Yes,PhD,Medium,Completed,61.5,Average
+702,Male,23,62.9,15.1,5.22,32.0,2.0,7.5,No,Yes,Master,Low,Not Completed,53.7,Average
+252,Male,17,83.1,6.5,4.98,31.0,,7.3,Yes,No,Bachelor,High,Completed,70.7,Average
+727,Male,18,63.1,0.7,4.5,13.0,4.0,7.2,No,No,Bachelor,Medium,Completed,44.0,Low
+462,Female,24,60.1,11.7,5.63,23.0,8.0,6.5,Yes,Yes,PhD,Medium,Completed,57.2,Average
+456,Male,17,99.8,17.6,6.21,33.0,6.0,6.5,No,Yes,Bachelor,Medium,Completed,73.6,Average
+281,Female,18,80.1,11.5,5.57,24.0,2.0,6.4,No,Yes,Bachelor,Medium,Completed,59.3,Average
+816,Male,21,78.1,24.7,6.42,37.0,10.0,5.0,No,Yes,Master,High,Not Completed,67.5,Average
+863,Female,19,75.7,9.2,6.49,22.0,7.0,6.8,No,Yes,High School,Medium,Completed,69.0,Average
+270,Male,25,69.1,16.2,6.37,24.0,5.0,7.5,No,Yes,Master,Low,Not Completed,62.3,Average
+202,Male,17,88.7,10.5,5.87,23.0,,6.7,No,Yes,PhD,High,Not Completed,62.1,Average
+162,Female,24,97.9,16.0,5.79,24.0,0.0,7.9,No,Yes,Bachelor,Medium,Completed,70.5,Average
+556,Male,21,84.2,7.6,5.71,29.0,9.0,7.6,No,Yes,High School,Medium,Completed,58.5,Average
+730,Male,21,52.8,11.7,5.27,21.0,2.0,6.2,No,No,High School,Low,Not Completed,47.4,Low
+402,Female,25,67.3,15.3,5.51,18.0,0.0,8.5,No,Yes,High School,High,Not Completed,50.0,Average
+703,Male,19,53.7,0.0,4.25,10.0,1.0,8.0,No,Yes,Bachelor,Medium,Not Completed,42.5,Low
+477,Male,24,61.7,14.5,5.42,26.0,6.0,7.9,Yes,Yes,High School,Medium,Completed,65.6,Average
+822,Male,23,52.1,12.3,4.32,20.0,5.0,5.8,Yes,Yes,Bachelor,Medium,Not Completed,49.6,Low
+772,Female,22,58.5,14.2,4.08,23.0,2.0,6.5,No,Yes,Master,Medium,Completed,58.3,Average
+106,Male,24,74.0,14.8,4.37,28.0,2.0,5.8,No,Yes,Bachelor,High,Not Completed,62.7,Average
+566,Female,20,76.4,4.7,3.78,21.0,2.0,6.6,Yes,Yes,High School,Low,Not Completed,50.0,Average
+390,Female,24,100.0,23.1,7.42,29.0,3.0,7.0,No,Yes,High School,High,Completed,77.5,High
+2,Female,19,94.6,12.1,4.27,27.0,7.0,8.4,Yes,Yes,Bachelor,Medium,Completed,63.2,Average
+991,Female,23,63.6,10.0,4.96,22.0,3.0,5.2,No,Yes,High School,Medium,Not Completed,55.1,Average
+741,Male,22,69.7,17.0,6.3,9.0,3.0,7.2,No,Yes,Bachelor,High,Not Completed,58.3,Average
+562,Male,23,83.9,,6.99,32.0,4.0,7.8,Yes,Yes,PhD,Medium,Completed,67.0,Average
+932,Female,25,80.7,10.0,4.81,17.0,5.0,7.9,No,Yes,High School,Medium,Completed,58.5,Average
+81,Female,17,,12.5,5.98,18.0,2.0,5.9,No,Yes,High School,Medium,Completed,58.0,Average
+206,Male,17,76.6,9.2,4.14,26.0,5.0,6.9,No,Yes,Master,Medium,Not Completed,60.6,Average
+35,Female,24,59.5,13.2,,29.0,10.0,4.7,No,Yes,Master,Medium,Not Completed,53.9,Average
+776,Male,25,69.4,8.8,4.3,30.0,6.0,7.1,Yes,No,High School,Medium,Completed,54.7,Average
+509,Female,17,97.5,14.3,7.31,26.0,6.0,,No,Yes,Bachelor,Low,Completed,68.5,Average
+428,Female,20,67.7,5.8,6.0,18.0,4.0,6.8,No,Yes,Bachelor,Low,Completed,45.6,Low
+455,Male,21,72.6,8.7,5.98,22.0,4.0,8.2,Yes,Yes,PhD,Medium,Completed,60.4,Average
+367,Female,20,59.5,11.0,5.65,21.0,6.0,5.2,No,No,Bachelor,Medium,Completed,46.3,Low
+92,Female,25,63.7,4.0,4.51,17.0,1.0,5.4,Yes,No,Master,Low,Not Completed,43.9,Low
+340,Male,25,67.2,11.6,5.03,25.0,5.0,7.1,No,Yes,High School,Low,Completed,55.5,Average
+898,Female,17,90.5,20.7,6.11,29.0,8.0,8.4,No,No,High School,Medium,Completed,74.9,Average
+565,Male,25,75.9,16.1,7.68,34.0,6.0,5.7,No,No,Bachelor,High,Not Completed,63.6,Average
+346,Female,23,74.5,1.3,2.58,29.0,9.0,5.9,Yes,Yes,Bachelor,Low,Completed,54.0,Average
+777,Male,22,78.2,8.6,4.34,33.0,10.0,6.2,Yes,Yes,High School,High,Completed,59.3,Average
+242,Female,17,67.8,14.3,5.94,27.0,6.0,4.7,No,No,High School,High,Not Completed,52.4,Average
+14,Male,25,78.7,,7.2,32.0,5.0,4.5,Yes,No,High School,Medium,Completed,55.0,Average
+316,Female,17,80.9,8.4,3.84,24.0,2.0,7.4,No,Yes,PhD,High,Completed,66.2,Average
+601,Male,21,58.3,14.9,5.35,23.0,5.0,7.4,No,Yes,High School,Low,Completed,61.7,Average
+388,Male,19,60.9,17.0,5.96,28.0,5.0,5.4,No,No,Bachelor,Medium,Not Completed,54.8,Average
+274,Female,21,94.5,15.2,7.24,20.0,,5.8,Yes,No,Master,Medium,Completed,69.7,Average
+167,Male,25,77.2,21.7,6.86,31.0,3.0,5.9,Yes,No,Bachelor,Medium,Not Completed,60.0,Average
+841,Male,23,,20.0,,40.0,4.0,6.7,No,No,Master,Low,Not Completed,80.9,High
+637,Female,25,85.1,17.7,,29.0,9.0,6.1,Yes,No,High School,High,Not Completed,62.7,Average
+647,Female,25,69.8,19.3,6.86,31.0,9.0,6.6,No,No,Master,Low,Not Completed,71.0,Average
+819,Male,20,80.3,7.1,4.71,24.0,8.0,7.2,Yes,Yes,High School,Low,Completed,54.0,Average
+485,Female,22,87.7,7.0,4.94,26.0,6.0,8.6,No,Yes,Bachelor,High,Not Completed,54.0,Average
+522,Male,18,54.2,0.0,4.31,12.0,3.0,6.9,Yes,Yes,High School,Low,Completed,45.4,Low
+505,Female,18,70.0,7.9,4.45,27.0,3.0,4.4,No,Yes,Master,High,Not Completed,60.6,Average
+832,Male,21,68.7,12.8,6.45,23.0,4.0,5.6,No,Yes,Master,High,Completed,62.9,Average
+244,Male,18,80.0,19.0,6.17,34.0,7.0,8.8,No,Yes,Bachelor,Medium,Not Completed,66.8,Average
+567,Male,19,73.5,0.9,3.84,19.0,4.0,8.7,Yes,Yes,Bachelor,Medium,Completed,52.9,Average
+876,Male,17,77.1,9.0,6.06,22.0,8.0,8.0,Yes,No,PhD,Low,Not Completed,63.3,Average
+563,Male,23,,8.9,4.49,31.0,4.0,9.2,No,No,Bachelor,Medium,Completed,55.9,Average
+973,Female,25,86.2,22.0,,35.0,8.0,8.1,Yes,Yes,PhD,Medium,Completed,80.5,High
+687,Female,18,75.3,13.0,5.21,24.0,10.0,5.3,No,No,PhD,Low,Not Completed,57.1,Average
+958,Male,21,84.6,12.1,5.04,24.0,7.0,7.1,No,Yes,High School,Medium,Not Completed,59.5,Average
+190,Male,22,80.6,13.3,5.04,37.0,7.0,7.0,Yes,Yes,Master,High,Not Completed,73.9,Average
+783,Male,18,,22.1,5.66,29.0,5.0,5.8,No,No,Master,Medium,Not Completed,67.4,Average
+700,Male,20,66.0,9.2,5.02,23.0,,6.8,No,Yes,Master,Low,Not Completed,60.5,Average
+476,Female,23,92.6,11.7,5.84,27.0,4.0,5.8,No,Yes,High School,Medium,Not Completed,61.3,Average
+682,Male,23,69.6,14.6,4.74,27.0,6.0,6.1,Yes,Yes,PhD,Medium,Not Completed,59.2,Average
+511,Female,25,,12.0,6.81,25.0,6.0,7.0,Yes,Yes,High School,Low,Not Completed,71.1,Average
+59,Male,20,73.9,10.5,5.66,32.0,,6.9,No,No,High School,Medium,Not Completed,56.0,Average
+475,Female,18,88.2,12.4,7.18,22.0,2.0,7.0,Yes,Yes,Bachelor,High,Not Completed,57.0,Average
+561,Female,21,72.2,14.3,5.91,20.0,4.0,8.2,No,Yes,High School,Medium,Not Completed,64.1,Average
+857,Male,21,60.8,5.3,5.61,17.0,4.0,7.4,No,Yes,Bachelor,Medium,Completed,52.6,Average
+748,Female,22,57.8,13.3,5.45,26.0,3.0,7.3,No,No,Master,Low,Not Completed,52.6,Average
+253,Female,21,88.2,10.4,5.46,32.0,5.0,7.6,Yes,Yes,Master,Medium,Not Completed,70.6,Average
+22,Male,23,77.0,16.3,7.4,22.0,3.0,8.4,Yes,No,Master,Low,Not Completed,64.8,Average
+314,Female,18,73.2,9.6,5.22,21.0,8.0,7.4,No,Yes,High School,High,Completed,59.4,Average
+460,Male,21,94.3,17.7,,30.0,7.0,7.7,Yes,Yes,High School,Low,Completed,77.0,High
+161,Male,22,59.1,9.3,4.32,29.0,,7.3,No,No,Bachelor,Low,Not Completed,41.6,Low
+277,Female,24,88.1,7.4,3.33,25.0,3.0,5.9,No,Yes,Bachelor,High,Completed,58.6,Average
+956,Male,17,71.9,10.4,4.09,20.0,2.0,7.1,No,Yes,Bachelor,Medium,Completed,56.2,Average
+192,Female,23,94.1,10.2,5.61,29.0,7.0,8.6,No,Yes,High School,High,Completed,63.3,Average
+386,Female,19,75.5,5.0,4.4,24.0,8.0,7.9,Yes,No,Bachelor,High,Completed,60.7,Average
+806,Female,21,74.9,15.6,6.25,26.0,3.0,7.4,No,Yes,Bachelor,Low,Completed,80.5,High
+414,Female,18,,2.4,4.9,22.0,10.0,6.2,No,No,High School,Medium,Not Completed,50.2,Average
+492,Female,17,89.3,16.3,6.64,41.0,10.0,8.0,Yes,Yes,Master,Medium,Completed,88.1,High
+344,Male,20,70.2,18.7,6.85,31.0,,4.9,No,Yes,Master,Low,Not Completed,59.5,Average
+770,Female,20,71.5,13.5,4.73,,4.0,6.5,No,Yes,Bachelor,High,Not Completed,54.2,Average
+309,Female,23,98.0,13.9,5.27,22.0,10.0,8.1,Yes,No,Bachelor,Low,Not Completed,66.1,Average
+662,Female,24,73.7,14.8,5.7,21.0,3.0,7.0,Yes,Yes,High School,Low,Not Completed,53.6,Average
+131,Male,25,74.7,11.1,5.51,19.0,10.0,8.0,Yes,No,PhD,Low,Completed,68.9,Average
+664,Male,22,73.5,22.7,6.61,32.0,6.0,5.0,Yes,Yes,PhD,Medium,Not Completed,72.8,Average
+872,Male,25,46.3,7.6,3.71,16.0,6.0,7.5,No,Yes,High School,Medium,Not Completed,48.0,Low
+100,Male,19,,14.0,4.73,38.0,6.0,6.7,Yes,Yes,Master,High,Completed,76.8,High
+373,Male,17,83.3,3.4,5.03,25.0,8.0,4.9,Yes,Yes,Master,Medium,Completed,55.9,Average
+88,Female,23,75.8,13.5,4.78,20.0,1.0,6.5,No,No,Bachelor,Low,Completed,60.2,Average
+459,Male,20,93.0,14.0,6.78,27.0,8.0,8.5,No,Yes,Bachelor,Medium,Not Completed,59.4,Average
+331,Male,20,,9.7,5.64,31.0,4.0,6.9,Yes,Yes,Master,Medium,Not Completed,50.6,Average
+215,Female,17,68.0,12.3,4.56,20.0,2.0,,No,Yes,Master,Low,Not Completed,44.5,Low
+467,Male,23,74.4,15.7,4.98,23.0,4.0,6.1,No,Yes,PhD,Medium,Not Completed,62.5,Average
+122,Female,19,64.6,0.0,3.53,24.0,7.0,8.2,No,No,High School,Low,Completed,42.8,Low
+615,Female,20,100.0,7.2,5.9,31.0,5.0,6.4,No,No,High School,High,Not Completed,57.2,Average
+21,Female,21,70.9,,4.3,19.0,5.0,5.2,No,Yes,High School,Low,Completed,56.9,Average
+701,Female,19,70.6,18.9,,20.0,0.0,6.7,No,Yes,Master,High,Not Completed,56.5,Average
+72,Male,24,67.8,14.9,5.54,27.0,7.0,5.0,No,Yes,Bachelor,Medium,Completed,61.6,Average
+107,Male,22,83.7,27.9,7.39,37.0,10.0,6.5,Yes,Yes,PhD,Low,Completed,85.8,High
+271,Female,22,62.7,24.7,5.73,35.0,4.0,,Yes,Yes,Bachelor,Medium,Not Completed,76.6,High
+861,Female,18,90.7,22.2,6.86,34.0,7.0,6.8,No,Yes,Bachelor,High,Not Completed,74.7,Average
+436,Female,21,79.3,18.6,4.3,20.0,7.0,6.1,No,No,PhD,High,Not Completed,52.8,Average
+103,Male,25,,11.9,5.93,25.0,,8.6,No,No,Bachelor,Medium,Not Completed,54.8,Average
