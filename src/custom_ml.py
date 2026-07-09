@@ -1,25 +1,38 @@
 import numpy as np
 
 class CustomLinearRegression:
-    """Linear Regression from scratch using Ordinary Least Squares (OLS) with L2 regularization (Ridge)."""
-    def __init__(self):
+    """Linear Regression from scratch using Gradient Descent with L2 regularization (Ridge).
+    
+    Uses gradient descent instead of the OLS closed-form solution to avoid
+    matrix inversion / SVD failures (numpy.linalg.LinAlgError) on different
+    server environments (e.g. numpy 2.x on Streamlit Cloud).
+    """
+    def __init__(self, learning_rate=0.01, n_iterations=1000, lambda_val=0.01):
+        self.learning_rate = learning_rate
+        self.n_iterations = n_iterations
+        self.lambda_val = lambda_val
         self.weights = None
         self.bias = None
 
     def fit(self, X, y):
-        # Adding a small L2 penalty to ensure matrix is always invertible
-        n_features = X.shape[1]
-        X_b = np.c_[np.ones((X.shape[0], 1)), X]
-        lambda_val = 0.01 
-        I = np.eye(X_b.shape[1])
-        I[0, 0] = 0 # Don't regularize the bias term
-        
-        theta = np.linalg.pinv(X_b.T.dot(X_b) + lambda_val * I).dot(X_b.T).dot(y)
-        self.bias = theta[0]
-        self.weights = theta[1:]
+        n_samples, n_features = X.shape
+        self.weights = np.zeros(n_features)
+        self.bias = 0.0
+
+        for _ in range(self.n_iterations):
+            y_pred = X.dot(self.weights) + self.bias
+            error = y_pred - y
+
+            # Gradients with L2 regularization on weights (not bias)
+            dw = (X.T.dot(error) + self.lambda_val * self.weights) / n_samples
+            db = np.sum(error) / n_samples
+
+            self.weights -= self.learning_rate * dw
+            self.bias    -= self.learning_rate * db
 
     def predict(self, X):
         return X.dot(self.weights) + self.bias
+
 
 class Node:
     """Decision Tree Node."""
