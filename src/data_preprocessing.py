@@ -56,14 +56,14 @@ def handle_missing_values(df):
     for col in numerical_cols:
         if df_clean[col].isnull().any():
             median_val = df_clean[col].median()
-            df_clean[col].fillna(median_val, inplace=True)
+            df_clean[col] = df_clean[col].fillna(median_val)
             print(f"   Filled '{col}' missing values with median: {median_val}")
     
     # Impute categorical columns with mode
     for col in categorical_cols:
         if df_clean[col].isnull().any():
             mode_val = df_clean[col].mode()[0]
-            df_clean[col].fillna(mode_val, inplace=True)
+            df_clean[col] = df_clean[col].fillna(mode_val)
             print(f"   Filled '{col}' missing values with mode: {mode_val}")
     
     missing_after = df_clean.isnull().sum().sum()
