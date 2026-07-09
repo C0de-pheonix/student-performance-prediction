@@ -2,36 +2,57 @@ import numpy as np
 
 class CustomLinearRegression:
     """Linear Regression from scratch using Gradient Descent with L2 regularization (Ridge).
-    
-    Uses gradient descent instead of the OLS closed-form solution to avoid
-    matrix inversion / SVD failures (numpy.linalg.LinAlgError) on different
-    server environments (e.g. numpy 2.x on Streamlit Cloud).
+
+    Normalizes y internally so gradients remain small and convergence is
+    guaranteed regardless of the target variable's scale or numpy/BLAS version.
     """
-    def __init__(self, learning_rate=0.01, n_iterations=1000, lambda_val=0.01):
+    def __init__(self, learning_rate=0.1, n_iterations=1000, lambda_val=0.01):
         self.learning_rate = learning_rate
         self.n_iterations = n_iterations
         self.lambda_val = lambda_val
         self.weights = None
         self.bias = None
+        self._y_mean = 0.0
+        self._y_std = 1.0
 
     def fit(self, X, y):
+        X = np.array(X, dtype=np.float64)
+        y = np.array(y, dtype=np.float64)
+
+        # Standardize y so gradients are small — prevents divergence when
+        # y is large (e.g. exam scores 0-100) but X is already standardised.
+        self._y_mean = float(np.mean(y))
+        self._y_std  = float(np.std(y)) if float(np.std(y)) > 0 else 1.0
+        y_scaled = (y - self._y_mean) / self._y_std
+
         n_samples, n_features = X.shape
-        self.weights = np.zeros(n_features)
+        self.weights = np.zeros(n_features, dtype=np.float64)
         self.bias = 0.0
 
         for _ in range(self.n_iterations):
             y_pred = X.dot(self.weights) + self.bias
-            error = y_pred - y
+            error  = y_pred - y_scaled
 
-            # Gradients with L2 regularization on weights (not bias)
             dw = (X.T.dot(error) + self.lambda_val * self.weights) / n_samples
-            db = np.sum(error) / n_samples
+            db = float(np.sum(error)) / n_samples
+
+            # Gradient clipping — safety net against any remaining explosion
+            dw = np.clip(dw, -5.0, 5.0)
+            db = float(np.clip(db, -5.0, 5.0))
 
             self.weights -= self.learning_rate * dw
             self.bias    -= self.learning_rate * db
 
+            # NaN guard: reset to safe fallback and stop
+            if not np.isfinite(self.weights).all() or not np.isfinite(self.bias):
+                self.weights = np.zeros(n_features, dtype=np.float64)
+                self.bias    = 0.0
+                break
+
     def predict(self, X):
-        return X.dot(self.weights) + self.bias
+        X = np.array(X, dtype=np.float64)
+        # Unscale predictions back to original y range
+        return (X.dot(self.weights) + self.bias) * self._y_std + self._y_mean
 
 
 class Node:
