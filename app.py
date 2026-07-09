@@ -210,7 +210,7 @@ def get_preprocessed_data():
 
 @st.cache_resource
 def load_models():
-    """Train ML models on the fly instead of loading from disk."""
+    """Train ML models on the fly instead of loading from disk. (Cache busted to apply fix)"""
     from custom_ml import CustomLinearRegression, CustomDecisionTreeClassifier, CustomRandomForestClassifier
     
     try:
