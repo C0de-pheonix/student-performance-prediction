@@ -172,7 +172,6 @@ st.markdown("""
     /* Hide default Streamlit elements */
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
-    header {visibility: hidden;}
     [data-testid="stSidebarFooter"] {display: none !important;}
     a[href*="streamlit.io"] {display: none !important;}
     

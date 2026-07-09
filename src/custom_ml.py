@@ -14,7 +14,7 @@ class CustomLinearRegression:
         I = np.eye(X_b.shape[1])
         I[0, 0] = 0 # Don't regularize the bias term
         
-        theta = np.linalg.inv(X_b.T.dot(X_b) + lambda_val * I).dot(X_b.T).dot(y)
+        theta = np.linalg.pinv(X_b.T.dot(X_b) + lambda_val * I).dot(X_b.T).dot(y)
         self.bias = theta[0]
         self.weights = theta[1:]
 
